@@ -1,120 +1,140 @@
----
-layout: null
-title: Jekyll Theme - Home Page - Massively
-description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
-sitemap:
-    priority: 1.0
-    lastmod: 2017-11-02
-    changefreq: weekly
----
 <!DOCTYPE HTML>
 <!--
-	Massively by HTML5 UP
-	html5up.net | @ajlkn
-  Jekyll integration by somiibo.com
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	Linear by TEMPLATED
+    templated.co @templatedco
+    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 -->
 <html>
 	<head>
-    {% include head.html %}
-
-
+		<title>CMG</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,700,500,900' rel='stylesheet' type='text/css'>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-panels.min.js"></script>
+		<script src="js/init.js"></script>
+		<script src="https://kit.fontawesome.com/94f98b5532.js" crossorigin="anonymous"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel-noscript.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-desktop.css" />
+		</noscript>
 	</head>
-	<body class="is-loading">
+	<body class="homepage">
 
-		<!-- Wrapper -->
-			<div id="wrapper" class="fade-in">
-
-				<!-- Intro -->
-					<div id="intro">
-            <h1>{{Biomedical Data Science Group}}</h1>
-						<h2>The Biomedical Statistics and Data Science group @ LMU/HMGU Munich</h2>
-						<p>Welcome! Our group aims to analyze high throughput biological datasets.<br /> 
-							Our projects include the analysis of microbial communities, the study of bacterial response to stress, disentageling the 
-							the epiginetic code.</p>
-						<ul class="actions">
-							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
-						</ul>
-					</div>
-
-				<!-- Header -->
-					<header id="header">
-						<a href="{{ "/" | absolute_url }}" class="logo">{{About Us}}</a>
-					</header>
-
+	<!-- Header -->
+		<div id="header">
+			<div id="nav-wrapper"> 
 				<!-- Nav -->
-					<nav id="nav">
-
-            {% include nav.html %}
-
-					</nav>
-
-				<!-- Main -->
-					<div id="main">
-						<!-- Featured Post -->
-							<article class="post featured">
-								<header class="major">
-									<h2><a href="#">Massively is a versatile Jekyll theme</a></h2>
-									<p>With only a few edits, you can have a stunningly beautiful website <br />
-                    nearly out of the box. Of course... you can always take it further <br />
-                    and make it something even more amazing!</p>
-								</header>
-								<a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a>
-                <p>Regardless of your website's function, the homepage is what brings the user in.
-                  If it's anything short of intriguing, captivating, or just plain cool, you're out of luck and you might deter some visitors.</p>
-                <p>Your homepage must clearly describe what your site is about.
-									Having engaging content will in this manner enable you to offer and it will make your customers more inclined to purchase from you. Content is a way to position your organization in the correct place for your clients to discover you.
-								</p>
-								<p>
-									In this manner, content in itself is a standout amongst the best promoting apparatuses in your whole advertising toolbox! Rather than making your content around your promoting technique, it's limitlessly more productive to fabricate your showcasing around your content.
-								 </p>
-
-							</article>
-
-						<!-- Posts -->
-							<section class="posts">
-                {% for post in site.posts limit:3 %}
-                {% assign mod3 = forloop.index | modulo: 3 %}
-  								<article>
-  									<header>
-  										<span class="date">{{ post.date | date_to_string }}</span>
-  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-  									</header>
-  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-  									<p>{{ post.excerpt }}</p>
-  									<ul class="actions">
-  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
-  									</ul>
-  								</article>
-                  {% if mod3 == 0 %}
-                  <article>
-  									<header>
-  										<h2><a href="#">Sponsored</a></h2>
-  									</header>
-
-  								</article>
-                  {% endif %}
-                {% endfor %}
-
-							</section>
-
-						<!-- Footer -->
-							<footer>
-                <ul class="actions">
-                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
-                </ul>
-							</footer>
-
-					</div>
-
-				<!-- Footer -->
-        {% include foot.html %}
-
+				<nav id="nav">
+					<ul>
+						<li class="active"><a href="index.html">Homepage</a></li>
+						<li><a href="projects.html">Projects</a></li>
+						<li><a href="members.html">People</a></li>
+						<li><a href="tools.html">Tools</a></li>
+					</ul>
+				</nav>
 			</div>
+			<div class="container"> 
+				
+				<!-- Logo -->
+				<div id="logo">
+					<h1><a href="#">Biomedical Statistics and Data Science</a></h1>
+					<span class="tag">Welcome to the Biomedical Statistics and Data Science group @ LMU/HMGU Munich</span>
+				</div>
+			</div>
+		</div>
 
-		<!-- Scripts -->
-		{% include scripts-main.html %}
-    {% include tracking.html %}
+	<!-- Featured -->
+		<div id="featured">
+			<div class="container">
+				<header>
+					<h2>About Us</h2>
+				</header>
+				<p>We are interested in developing and applying <strong>computational statistics and data science</strong> methods for the analysis of biological systems. We particularly focus on microbial ecosystems and their interplay with the host and the environment, including the human microbiome and marine ecosystems. To elucidate the complex interplay in living systems, <strong>we analyze multi-omics high-throughput data</strong>, in particular amplicon and metagenomic sequencing data, using tools from high-dimensional statistics, network inference, compositional data analysis as well as their deep learning counterparts.</p>
+				<hr />
+				<div class="row">
+					<section class="4u">
+						<span class="pennant"><span class="fa fa-dna"></span></span>
+						<h3>Projects</h3>
+						<p>Find out about the current projects we are working on</p>
+						<a href="projects.html" class="button button-style1">Read More</a>
+					</section>
+					<section class="4u">
+						<span class="pennant"><span class="fa fa-user-alt"></span></span>
+						<h3>People</h3>
+						<p>Check out who is currently a part of the lab</p>
+						<a href="members.html" class="button button-style1">Read More</a>
+					</section>
+					<section class="4u">
+						<span class="pennant"><span class="fa fa-wrench"></span></span>
+						<h3>Tools</h3>
+						<p>Take a look at some of the tools we have created.</p>
+						<a href="tools.html" class="button button-style1">Read More</a>
+					</section>
+
+				</div>
+			</div>
+		</div>
+
+	<!-- Main -->
+		<div id="main">
+			<div id="content" class="container">
+				<header>
+					<h2>We are based in</h2>
+				</header>
+				<div class="row">
+					<section class="6u">
+						<a target="_blank" href="https://www.en.statistik.uni-muenchen.de/index.html" class="image full"><img src="images/1200px-LMU_Muenchen_Logo.svg.png" alt=""></a>
+						<header>
+							<h2>Institute of Statistics</h2>
+						</header>
+					</section>				
+					<section class="6u">
+						<a target="_blank" href="https://www.helmholtz-muenchen.de/icb/index.html" class="image full"><img src="images/logo_hmgu.svg" alt=""></a>
+						<header>
+							<h2>Institute of Computational Biology</h2>
+						</header>
+					</section>				
+				</div>
+			
+			</div>
+		</div>
+
+	<!-- Tweet -->
+		<div id="tweet">
+			<div class="container">
+				<section>
+					<blockquote>&ldquo;One day I will find the rigth words <br>and they will be simple&rdquo;</blockquote>
+				</section>
+			</div>
+		</div>
+
+	<!-- Footer -->
+		<div id="footer">
+			<div class="container">
+				<section>
+					<header>
+						<h2>Get in touch</h2>
+						<span class="byline">You can find us at</span>
+					</header>
+					<ul class="contact">
+						<li><a target="_blank" href="https://twitter.com/microbionaut" class="fa fa-twitter"><span>Twitter</span></a></li>
+						<li target="_blank" class="active"><a href="https://github.com/bio-datascience" class="fa fa-github"><span>Facebook</span></a></li>
+						<li><a href="christian.mueller@helmholtz-muenchen.de" class="fa fa-envelope"><span>Pinterest</span></a></li>
+					</ul>
+				</section>
+			</div>
+		</div>
+
+	<!-- Copyright -->
+		<div id="copyright">
+			<div class="container">
+				Design: <a href="http://templated.co">TEMPLATED</a> Images: <a href="http://unsplash.com">Unsplash</a> (<a href="http://unsplash.com/cc0">CC0</a>)
+			</div>
+		</div>
 
 	</body>
 </html>
