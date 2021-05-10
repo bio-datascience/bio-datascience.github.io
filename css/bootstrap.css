@@ -744,6 +744,7 @@ h6 {
   line-height: 20px;
   color: inherit;
   text-rendering: optimizelegibility;
+  font-size: 60px;
 }
 
 h1 small,
