@@ -1,33 +1,62 @@
 [
   {
+    "title": "BATTLE-AMP: Benchmarking Antimicrobial Peptide Predictors",
+    "bibtex_key": "szymczak2026battle",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Szymczak, Paulina; Bukała, Adriana; Zarzecki, Wojciech; Sala, Michał; Borišek, Jure; Fadavi, Setareh; Olayo-Alarcon, Roberto; Sroka, Jacek; Colomé-Tatché, Maria; Gambin, Anna; others",
+    "year": 2026,
+    "venue": "bioRxiv, 2026–06 · 2026",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:An6A6Jpfc1oC",
+    "scholar_id": "zplWERYAAAAJ:An6A6Jpfc1oC"
+  },
+  {
     "title": "Human-targeted drugs extensively reshape regulatory networks controlling virulence and antibiotic resistance in Salmonella Typhimurium",
     "venue": "Preprint · 2026",
     "year": 2026,
-    "authors": "",
+    "authors": "Amstalden, Martin K; Olayo-Alarcon, Roberto; Brenzinger, Susanne; Debande, Lorine; Zannoni, Annamaria; Fiore, Elisabetta; Boudrioua, Abdelhakim; Rashidian, Azam; Kronenberger, Thales; Wagner, Samuel; others",
     "paper": "https://doi.org/10.64898/2026.09.30.755304",
     "code": null,
     "docs": null,
-    "source": "Existing verified paper record / publisher metadata"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "amstalden2026human",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:DkZNVXde3BIC",
+    "scholar_id": "zplWERYAAAAJ:DkZNVXde3BIC"
   },
   {
     "title": "Human-targeted drugs impact antibiotic sensitivity and growth of Campylobacter jejuni",
     "venue": "Preprint · 2026",
     "year": 2026,
-    "authors": "",
+    "authors": "Zannoni, Annamaria; Olayo-Alarcon, Roberto; Amstalden, Martin K; Feldl, Medina; Wuerz, Rebecca; Bruchhardt, Thea; Kullmann, Johannes; Svensson, Sarah L; Sotriffer, Christoph; Alzheimer, Mona; others",
     "paper": "https://doi.org/10.64898/2026.10.05.755907",
     "code": null,
     "docs": null,
-    "source": "Existing verified paper record / publisher metadata"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "zannoni2026human",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:eO3_k5sD8BwC",
+    "scholar_id": "zplWERYAAAAJ:eO3_k5sD8BwC"
+  },
+  {
+    "title": "IDDF2026-ABS-0099 RNF43 mutations drive colitis-associated carcinogenesis",
+    "bibtex_key": "gerhard2026iddf2026",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Gerhard, Markus; Luque, Raquel Mejías; Dietl, Alisa; Ralser, Anna; Dregelies, Theresa; Sterlacci, William; Stadler, Mara; Olayo-Alarcon, Roberto; Bauche, Alexandra; Skerhut, Martin; others",
+    "year": 2026,
+    "venue": "2026",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:EPG8bYD4jVwC",
+    "scholar_id": "zplWERYAAAAJ:EPG8bYD4jVwC"
   },
   {
     "title": "permApprox: a general framework for accurate permutation p-value approximation",
     "venue": "Preprint · 2026",
     "year": 2026,
-    "authors": "",
+    "authors": "Peschel, Stefanie; Boulesteix, Anne-Laure; von Mutius, Erika; Müller, Christian L",
     "paper": "https://arxiv.org/abs/2602.22975",
     "code": "https://github.com/stefpeschel/permApprox",
     "docs": null,
-    "source": "Existing verified paper record / publisher metadata"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "peschel2026permapprox",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:w0F2JDEymm0C",
+    "scholar_id": "zplWERYAAAAJ:w0F2JDEymm0C"
   },
   {
     "title": "Protein Content-Based Microbial Representations Improve Predictions of Antimicrobial Activity",
@@ -45,71 +74,119 @@
     "paper": "https://doi.org/10.1002/sim.70534",
     "code": "https://github.com/bio-datascience/cosmoDA",
     "docs": null,
-    "source": "Existing verified paper record / publisher metadata",
-    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=77508&la=de"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=77508&la=de",
+    "bibtex_key": "ostner2026score",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:raTqNPD5sRQC",
+    "scholar_id": "zplWERYAAAAJ:raTqNPD5sRQC"
   },
   {
-    "title": "Smoothing the edges: Smooth optimization for sparse regularization using hadamard overparametrization",
+    "title": "Smoothing the edges: Smooth optimization for sparse regularization using Hadamard overparametrization",
     "venue": "Mach. Learn. 115:73 (2026) · 2026",
     "year": 2026,
     "authors": "Kolb, C. ; Müller, C.L. ; Bischl, B. ; Rugamer, D.",
     "paper": "https://doi.org/10.1007/s10994-026-06997-0",
     "code": null,
     "docs": null,
-    "source": "Existing verified paper record / publisher metadata",
-    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=77561&la=de"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=77561&la=de",
+    "bibtex_key": "kolb2026smoothing",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:ziOE8S1-AIUC",
+    "scholar_id": "zplWERYAAAAJ:ziOE8S1-AIUC"
   },
   {
     "title": "Sparse regression, classification, and microbial network estimation in QIIME2 with q2-classo and q2-gglasso",
     "venue": "Preprint · 2026",
     "year": 2026,
-    "authors": "",
+    "authors": "Vlasovets, Oleg; Schaipp, Fabian; Simpson, Leo; Bolyen, Evan; Caporaso, J Gregory; Müller, Christian L",
     "paper": "https://arxiv.org/abs/2604.15520",
     "code": null,
     "docs": null,
-    "source": "Existing verified paper record / publisher metadata"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "vlasovets2026sparse",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:WAzi4Gm8nLoC",
+    "scholar_id": "zplWERYAAAAJ:WAzi4Gm8nLoC"
   },
   {
-    "title": "biscot",
+    "title": "The role of IgE patterns and their link to the gut microbiome in allergic sensitization",
+    "bibtex_key": "vlasovets2026role",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Vlasovets, Oleg; Standl, Marie; Maier, Lisa; Gilles, Stefanie; Grallert, Harald; Traidl-Hoffmann, Claudia; Peters, Annette; Mueller, Christian L",
+    "year": 2026,
+    "venue": "bioRxiv, 2026–03 · 2026",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:oi2SiIJ9l4AC",
+    "scholar_id": "zplWERYAAAAJ:oi2SiIJ9l4AC"
+  },
+  {
+    "title": "A new mathematical method to correct extraction bias based on bacterial features",
+    "bibtex_key": "rauer2025new",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Rauer, Luise; De Tomassi, Amedeo; Müller, Christian L; Hülpüsch, Claudia; Traidl-Hoffmann, Claudia; Reiger, Matthias; Neumann, Avidan U",
+    "year": 2025,
+    "venue": "2025",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:mKu_rENv82IC",
+    "scholar_id": "zplWERYAAAAJ:mKu_rENv82IC"
+  },
+  {
+    "title": "biscot: an Optimal Transport framework for multimodal bacterial single-cell data analysis",
     "venue": "Preprint & software · 2025",
     "year": 2025,
-    "authors": "",
+    "authors": "Feldl, Medina; Abbaszade, Gorkhmaz; Schattenberg, Florian; Stuckrath, Kathrin; Mueller, Susann; Mueller, Christian Lorenz",
     "paper": "https://doi.org/10.1101/2025.03.28.645895",
     "code": "https://github.com/bio-datascience/biscot",
     "docs": null,
-    "source": "Existing verified paper record / publisher metadata"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "feldl2025biscot",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:-jrNzM816MMC",
+    "scholar_id": "zplWERYAAAAJ:-jrNzM816MMC"
   },
   {
-    "title": "De-biasing microbiome sequencing data: Bacterial morphology-based correction of extraction bias and correlates of chimera formation",
+    "title": "Causal Inference Framework for Ocean Microbial Community Responses to Warmer Temperature",
+    "bibtex_key": "tran2025causal",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Tran, Minh Viet; Müller, Christian L",
+    "year": 2025,
+    "venue": "NeurIPS · 2025",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:O0nohqN1r9EC",
+    "scholar_id": "zplWERYAAAAJ:O0nohqN1r9EC"
+  },
+  {
+    "title": "De-biasing microbiome sequencing data: bacterial morphology-based correction of extraction bias and correlates of chimera formation",
     "venue": "Microbiome 13:38 (2025) · 2025",
     "year": 2025,
     "authors": "Rauer, L. ; De Tomassi, A. ; Müller, C.L. ; Hülpüsch, C. ; Traidl-Hoffmann, C. ; Reiger, M. ; Neumann, A.U.",
     "paper": "https://doi.org/10.1186/s40168-024-01998-4",
     "code": null,
     "docs": null,
-    "source": "Existing verified paper record / publisher metadata",
-    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=73297&la=de"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=73297&la=de",
+    "bibtex_key": "rauer2025biasing",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:1Ye0OR6EYb4C",
+    "scholar_id": "zplWERYAAAAJ:1Ye0OR6EYb4C"
   },
   {
-    "title": "DGrowthR",
-    "venue": "Preprint & software · 2025",
-    "year": 2025,
-    "authors": "",
-    "paper": "https://doi.org/10.1101/2025.03.25.645164",
-    "code": "https://github.com/bio-datascience/DGrowthR",
-    "docs": "https://bio-datascience.github.io/DGrowthR/",
-    "source": "Existing verified paper record / publisher metadata"
-  },
-  {
-    "title": "Instrumental variable estimation for compositional treatments",
+    "title": "Instrumental variable estimation for compositional treatments: E. Ailer et al.",
     "venue": "Sci. Rep. 15:5158 (2025) · 2025",
     "year": 2025,
     "authors": "Ailer, E. ; Müller, C.L. ; Kilbertus, N.",
     "paper": "https://doi.org/10.1038/s41598-025-89204-9",
     "code": null,
     "docs": null,
-    "source": "Existing verified paper record / publisher metadata",
-    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=73371&la=de"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=73371&la=de",
+    "bibtex_key": "ailer2025instrumental",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:KaMxkj08jr0C",
+    "scholar_id": "zplWERYAAAAJ:KaMxkj08jr0C"
+  },
+  {
+    "title": "Orchestrating Microbiome Analysis with Bioconductor",
+    "bibtex_key": "borman2025orchestrating",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Borman, Tuomas; Benedetti, Giulio; Muluh, Geraldson; Raulo, Aura; Valderamma, Benjamin; Sannikov, Artur; Peschel, Stefanie; Liu, Yihan; Hindström, Rasmus; Pärnänen, Katariina; others",
+    "year": 2025,
+    "venue": "bioRxiv, 2025–10 · 2025",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:ce2CqMG-AY4C",
+    "scholar_id": "zplWERYAAAAJ:ce2CqMG-AY4C"
   },
   {
     "title": "Pre-trained molecular representations enable antimicrobial discovery",
@@ -119,8 +196,24 @@
     "paper": "https://doi.org/10.1038/s41467-025-58804-4",
     "code": null,
     "docs": null,
-    "source": "Existing verified paper record / publisher metadata",
-    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=74058&la=de"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=74058&la=de",
+    "bibtex_key": "olayo2025pre",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:PyEswDtIyv0C",
+    "scholar_id": "zplWERYAAAAJ:PyEswDtIyv0C"
+  },
+  {
+    "title": "Statistical end-to-end analysis of large-scale microbial growth data with DGrowthR",
+    "venue": "Preprint & software · 2025",
+    "year": 2025,
+    "authors": "Feldl, Medina; Olayo-Alarcon, Roberto; Amstalden, Martin K; Zannoni, Annamaria; Peschel, Stefanie; Sharma, Cynthia M; Brochado, Ana Rita; Müller, Christian L",
+    "paper": "https://doi.org/10.1101/2025.03.25.645164",
+    "code": "https://github.com/bio-datascience/DGrowthR",
+    "docs": "https://bio-datascience.github.io/DGrowthR/",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "feldl2025statistical",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:QyXJ3EUuO1IC",
+    "scholar_id": "zplWERYAAAAJ:QyXJ3EUuO1IC"
   },
   {
     "title": "Systematic screen uncovers regulator contributions to chemical cues in Escherichia coli",
@@ -130,8 +223,31 @@
     "paper": "https://doi.org/10.1371/journal.pbio.3003260",
     "code": null,
     "docs": null,
-    "source": "Existing verified paper record / publisher metadata",
-    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=75224&la=de"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=75224&la=de",
+    "bibtex_key": "binsfeld2025systematic",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:sszUF3NjhM4C",
+    "scholar_id": "zplWERYAAAAJ:sszUF3NjhM4C"
+  },
+  {
+    "title": "Target-driven optimization of feature representation and model selection for microbiome sequencing data with ritme",
+    "bibtex_key": "adamov2025target",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Adamov, Anja; Müller, Christian L; Bokulich, Nicholas A",
+    "year": 2025,
+    "venue": "bioRxiv · 2025",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:-95Q15plzcUC",
+    "scholar_id": "zplWERYAAAAJ:-95Q15plzcUC"
+  },
+  {
+    "title": "Tu1173: MUTATIONS IN RNF43 DRIVE COLITIS ASSOCIATED CARCINOGENESIS",
+    "bibtex_key": "dietl2025tu1173",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Dietl, Alisa; Ralser, Anna; Dregelies, Theresa; Sterlacci, William; Stadler, Mara; Olayo-Alarcon, Roberto; Bauche, Alexandra; Groll, Tanja; Steiger, Katja; Oellinger, Rupert; others",
+    "year": 2025,
+    "venue": "Gastroenterology 169 (1), S–1341 · 2025",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:YsrPvlHIBpEC",
+    "scholar_id": "zplWERYAAAAJ:YsrPvlHIBpEC"
   },
   {
     "title": "Variational inference for microbiome survey data with application to global ocean data",
@@ -141,16 +257,22 @@
     "paper": "https://doi.org/10.1093/ismeco/ycaf062",
     "code": null,
     "docs": null,
-    "source": "Existing verified paper record / publisher metadata",
-    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=74494&la=de"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=74494&la=de",
+    "bibtex_key": "mishra2025variational",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:NDuN12AVoxsC",
+    "scholar_id": "zplWERYAAAAJ:NDuN12AVoxsC"
   },
   {
-    "title": "Associations of proteomics with hypertension and systolic blood pressure: KORA S4/F4/FF4 and KORA-Age1/Age2 Cohort Studies",
+    "title": "Associations of proteomics with hypertension and systolic blood pressure: KORA S4/F4/FF4 and KORA age1/age2 cohort studies",
     "year": 2024,
     "authors": "Lin, J. ; Petrera, A. ; Hauck, S.M. ; Müller, C.L. ; Peters, A. ; Thorand, B.",
     "venue": "Hypertension 81, 1156-1166 (2024) · 2024",
     "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=70181&la=de",
-    "source": "Helmholtz Munich institutional publication record"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "lin2024associations",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:1yWc8FF-_SYC",
+    "scholar_id": "zplWERYAAAAJ:1yWc8FF-_SYC"
   },
   {
     "title": "asteRIa enables robust interaction modeling between chromatin modifications and epigenetic readers",
@@ -160,18 +282,24 @@
     "paper": "https://doi.org/10.1093/nar/gkae361",
     "code": null,
     "docs": null,
-    "source": "Existing verified paper record / publisher metadata",
-    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=70683&la=de"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=70683&la=de",
+    "bibtex_key": "stadler2024asteria",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:SjuI4pbJlxcC",
+    "scholar_id": "zplWERYAAAAJ:SjuI4pbJlxcC"
   },
   {
-    "title": "BacSC",
+    "title": "BacSC: A general workflow for bacterial single-cell RNA sequencing data analysis",
     "venue": "Preprint & software · 2024",
     "year": 2024,
-    "authors": "",
+    "authors": "Ostner, Johannes; Kirk, Tim; Olayo-Alarcon, Roberto; Thöming, Janne Gesine; Rosenthal, Adam Z; Häussler, Susanne; Müller, Christian L",
     "paper": "https://doi.org/10.1101/2024.06.22.600071",
     "code": "https://github.com/bio-datascience/BacSC",
     "docs": null,
-    "source": "Existing verified paper record / publisher metadata"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "ostner2024bacsc",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:rHJHxKgnXwkC",
+    "scholar_id": "zplWERYAAAAJ:rHJHxKgnXwkC"
   },
   {
     "title": "Decoding chromatin states by proteomic profiling of nucleosome readers",
@@ -179,7 +307,30 @@
     "authors": "Lukauskas, S. ; Tvardovskiy, A. ; Nguyen, N.V. ; Stadler, M. ; Faull, P. ; Ravnsborg, T. ; Özdemir Aygenli, B. ; Dornauer, S. ; Flynn, H. ; Lindeboom, R.G.H. ; Barth, T.K. ; Brockers, K. ; Hauck, S.M. ; Vermeulen, M. ; Snijders, A.P. ; Müller, C.L. ; DiMaggio, P.A. ; Jensen, O.N. ; Schneider, R. ; Bartke, T.",
     "venue": "Nature 627, 671-679 (2024) · 2024",
     "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=70179&la=de",
-    "source": "Helmholtz Munich institutional publication record"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "lukauskas2024decoding",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:3NQIlFlcGxIC",
+    "scholar_id": "zplWERYAAAAJ:3NQIlFlcGxIC"
+  },
+  {
+    "title": "MetaIBS: large-scale amplicon-based meta analysis of irritable bowel syndrome",
+    "bibtex_key": "carcy2024metaibs",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Carcy, Salome; Ostner, Johannes; Tran, Viet; Menden, Michael P; Müller, Christian L",
+    "year": 2024,
+    "venue": "bioRxiv, 2024–01 · 2024",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:yxmsSjX2EkcC",
+    "scholar_id": "zplWERYAAAAJ:yxmsSjX2EkcC"
+  },
+  {
+    "title": "Predictive modeling of microbial data with interaction effects",
+    "bibtex_key": "stadler2024predictive",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Stadler, Mara; Olayo-Alarcon, Roberto; Bien, Jacob; Müller, Christian L",
+    "year": 2024,
+    "venue": "bioRxiv, 2024–04 · 2024",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:Ade32sEp0pkC",
+    "scholar_id": "zplWERYAAAAJ:Ade32sEp0pkC"
   },
   {
     "title": "Publisher Correction: Decoding chromatin states by proteomic profiling of nucleosome readers",
@@ -190,12 +341,25 @@
     "source": "Helmholtz Munich institutional publication record"
   },
   {
+    "title": "RNF43 is a gatekeeper for colitis-associated cancer",
+    "bibtex_key": "dietl2024rnf43",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Dietl, Alisa; Ralser, Anna; Taxauer, Karin; Dregelies, Theresa; Sterlacci, William; Stadler, Mara; Olayo-Alarcon, Roberto; Margaryan, Shushan; Skerhut, Martin; Groll, Tanja; others",
+    "year": 2024,
+    "venue": "bioRxiv, 2024–01 · 2024",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:Br1UauaknNIC",
+    "scholar_id": "zplWERYAAAAJ:Br1UauaknNIC"
+  },
+  {
     "title": "Scaffold Matcher: A CMA-ES based algorithm for identifying hotspot aligned peptidomimetic scaffolds",
     "year": 2024,
     "authors": "Claussen, E.R. ; Renfrew, P.D. ; Müller, C.L. ; Drew, K.",
     "venue": "Proteins 92, 343-355 (2024) · 2024",
     "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=68703&la=de",
-    "source": "Helmholtz Munich institutional publication record"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "claussen2023scaffold",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:-mN3Mh-tlDkC",
+    "scholar_id": "zplWERYAAAAJ:-mN3Mh-tlDkC"
   },
   {
     "title": "Best practices for single-cell analysis across modalities",
@@ -205,31 +369,46 @@
     "paper": "https://doi.org/10.1038/s41576-023-00586-w",
     "code": null,
     "docs": "https://www.sc-best-practices.org/",
-    "source": "Existing verified paper record / publisher metadata"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "heumos2023best",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:MhiOAD_qIWkC",
+    "duplicate_bibtex_keys": [
+      "heumos24single"
+    ],
+    "scholar_id": "zplWERYAAAAJ:MhiOAD_qIWkC"
   },
   {
-    "title": "deepregression: A flexible neural network framework for semi-structured deep distributional regression",
+    "title": "Deepregression: A flexible neural network framework for semi-structured deep distributional regression",
     "year": 2023,
     "authors": "Rügamer, D. ; Kolb, C. ; Fritz, C. ; Pfisterer, F. ; Kopper, P. ; Bischl, B. ; Shen, R. ; Bukas, C. ; Barros De Andrade E Sousa, L. ; Thalmeier, D. ; Baumann, P.F.M. ; Kook, L. ; Klein, N. ; Müller, C.L.",
     "venue": "J. Stat. Software 105, 1-31 (2023) · 2023",
     "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=67379&la=de",
-    "source": "Helmholtz Munich institutional publication record"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "rugamer2023deepregression",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:prdVHNxh-e8C",
+    "scholar_id": "zplWERYAAAAJ:prdVHNxh-e8C"
   },
   {
-    "title": "Echo2Pheno: A deep-learning application to uncover echocardiographic phenotypes in conscious mice",
+    "title": "Echo2Pheno: a deep-learning application to uncover echocardiographic phenotypes in conscious mice",
     "year": 2023,
     "authors": "Bukas, C. ; Galter, I. ; da Silva Buttkus, P. ; Fuchs, H. ; Maier, H. ; Gailus-Durner, V. ; Müller, C.L. ; Hrabě de Angelis, M. ; Piraud, M. ; Spielmann, N.",
     "venue": "Mamm. Genome 34, 200-215 (2023) · 2023",
     "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=67903&la=de",
-    "source": "Helmholtz Munich institutional publication record"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "bukas2023echo2pheno",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:4X0JR2_MtJMC",
+    "scholar_id": "zplWERYAAAAJ:4X0JR2_MtJMC"
   },
   {
-    "title": "Factorized Structured Regression for Large-Scale Varying Coefficient Models",
+    "title": "Factorized structured regression for large-scale varying coefficient models",
     "year": 2023,
     "authors": "Rügamer, D. ; Bender, A. ; Wiegrebe, S. ; Racek, D. ; Bischl, B. ; Müller, C.L. ; Stachl, C.",
     "venue": "In:. Gewerbestrasse 11, Cham, Ch-6330, Switzerland: Springer International Publishing Ag, 2023. 20-35 (Lect. Notes Comput. Sc. ; 13717 LNAI) · 2023",
     "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=68594&la=de",
-    "source": "Helmholtz Munich institutional publication record"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "rugamer2022factorized",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:F9fV5C73w3QC",
+    "scholar_id": "zplWERYAAAAJ:F9fV5C73w3QC"
   },
   {
     "title": "Microbial fingerprints reveal interaction between museum objects, curators, and visitors",
@@ -237,7 +416,10 @@
     "authors": "Simon, L.M. ; Flocco, C. ; Burkart, F. ; Methner, A. ; Henke, D. ; Rauer, L. ; Müller, C.L. ; Vogel, J. ; Quaisser, C. ; Overmann, J. ; Simon, S.",
     "venue": "iScience 26:107578 (2023) · 2023",
     "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=68356&la=de",
-    "source": "Helmholtz Munich institutional publication record"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "simon2023microbial",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:F1b5ZUV5XREC",
+    "scholar_id": "zplWERYAAAAJ:F1b5ZUV5XREC"
   },
   {
     "title": "Over-optimism in unsupervised microbiome analysis: Insights from network learning and clustering",
@@ -247,16 +429,32 @@
     "paper": "https://doi.org/10.1371/journal.pcbi.1010820",
     "code": null,
     "docs": null,
-    "source": "Existing verified paper record / publisher metadata",
-    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=67183&la=de"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=67183&la=de",
+    "bibtex_key": "ullmann2023over",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:LgRImbQfgY4C",
+    "scholar_id": "zplWERYAAAAJ:LgRImbQfgY4C"
   },
   {
-    "title": "Proteomic profiling of longitudinal changes in kidney function among middle-aged and older men and women: The KORA S4/F4/FF4 study",
+    "title": "Proteomic profiling of longitudinal changes in kidney function among middle-aged and older men and women: the KORA S4/F4/FF4 study",
     "year": 2023,
     "authors": "Lin, J. ; Nano, J. ; Petrera, A. ; Hauck, S.M. ; Zeller, T. ; Koenig, W. ; Müller, C.L. ; Peters, A. ; Thorand, B.",
     "venue": "BMC Med. 21:245 (2023) · 2023",
     "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=68431&la=de",
-    "source": "Helmholtz Munich institutional publication record"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "lin2023proteomic",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:7H_MAutzIkAC",
+    "scholar_id": "zplWERYAAAAJ:7H_MAutzIkAC"
+  },
+  {
+    "title": "Sparse Modality Regression",
+    "bibtex_key": "kolb2023sparse",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Kolb, Chris; Bischl, Bernd; Müller, Christian L.; Rügamer, David",
+    "year": 2023,
+    "venue": "International Workshop on Statistical Modelling 37, 210–214 · 2023",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:L1USKYWJimsC",
+    "scholar_id": "zplWERYAAAAJ:L1USKYWJimsC"
   },
   {
     "title": "STENCIL-NET for equation-free forecasting from data",
@@ -264,15 +462,21 @@
     "authors": "Maddu, S. ; Sturm, D. ; Cheeseman, B.L. ; Müller, C.L. ; Sbalzarini, I.F.",
     "venue": "Sci. Rep. 13:12787 (2023) · 2023",
     "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=68024&la=de",
-    "source": "Helmholtz Munich institutional publication record"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "maddu2023stencil",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:jU7OWUQzBzMC",
+    "scholar_id": "zplWERYAAAAJ:jU7OWUQzBzMC"
   },
   {
-    "title": "Using Probability Density Functions to Evaluate Models (PDFEM, v1.0) to compare a biogeochemical model with satellite-derived chlorophyll",
+    "title": "Using Probability Density Functions to Evaluate Models (PDFEM, v1. 0) to compare a biogeochemical model with satellite-derived chlorophyll",
     "year": 2023,
     "authors": "Jonsson, B.F. ; Follett, C.L. ; Bien, J. ; Dutkiewicz, S. ; Hyun, S. ; Kulk, G. ; Forget, G.L. ; Müller, C.L. ; Racault, M.F. ; Hill, C.N. ; Jackson, T. ; Sathyendranath, S.",
     "venue": "Geosci. Model. Dev. 16, 4639-4657 (2023) · 2023",
     "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=69390&la=de",
-    "source": "Helmholtz Munich institutional publication record"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "jonsson2023using",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:XUvXOeBm_78C",
+    "scholar_id": "zplWERYAAAAJ:XUvXOeBm_78C"
   },
   {
     "title": "A randomization-based causal inference framework for uncovering environmental exposure effects on human gut microbiota",
@@ -280,7 +484,20 @@
     "authors": "Sommer, A. ; Peters, A. ; Rommel, M. ; Cyrys, J. ; Grallert, H. ; Haller, D. ; Müller, C.L. ; Bind, M.C.",
     "venue": "PLoS Comput. Biol. 18:e1010044 (2022) · 2022",
     "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=65016&la=de",
-    "source": "Helmholtz Munich institutional publication record"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "sommer2022randomization",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:PVjk1bu6vJQC",
+    "scholar_id": "zplWERYAAAAJ:PVjk1bu6vJQC"
+  },
+  {
+    "title": "Basin-scale biogeography of marine phytoplankton reflects cellular-scale optimization of metabolism and physiology",
+    "bibtex_key": "casey2022basin",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Casey, John R; Boiteau, Rene M; Engqvist, Martin KM; Finkel, Zoe V; Li, Gang; Liefer, Justin; Müller, Christian L; Muñoz, Nathalie; Follows, Michael J",
+    "year": 2022,
+    "venue": "Science Advances 8 (3), eabl4930 · 2022",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:HtS1dXgVpQUC",
+    "scholar_id": "zplWERYAAAAJ:HtS1dXgVpQUC"
   },
   {
     "title": "Inverse Dirichlet weighting enables reliable training of physics informed neural networks",
@@ -290,8 +507,11 @@
     "paper": "https://doi.org/10.1088/2632-2153/ac3712",
     "code": null,
     "docs": null,
-    "source": "Existing verified paper record / publisher metadata",
-    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=64474&la=de"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=64474&la=de",
+    "bibtex_key": "maddu2022inverse",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:9c2xU6iGI7YC",
+    "scholar_id": "zplWERYAAAAJ:9c2xU6iGI7YC"
   },
   {
     "title": "Negative binomial factor regression with application to microbiome data analysis",
@@ -301,8 +521,11 @@
     "paper": "https://doi.org/10.1002/sim.9384",
     "code": null,
     "docs": null,
-    "source": "Existing verified paper record / publisher metadata",
-    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=64867&la=de"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=64867&la=de",
+    "bibtex_key": "mishra2022negative",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:8xutWZnSdmoC",
+    "scholar_id": "zplWERYAAAAJ:8xutWZnSdmoC"
   },
   {
     "title": "Objective hearing threshold identification from auditory brainstem response measurements using supervised and self-supervised approaches",
@@ -310,18 +533,24 @@
     "authors": "Thalmeier, D. ; Miller, G. ; Schneltzer, E. ; Hurt, A. ; Hrabě de Angelis, M. ; Becker, L. ; Müller, C.L. ; Maier, H.",
     "venue": "BMC Neurosci. 23:81 (2022) · 2022",
     "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=67095&la=de",
-    "source": "Helmholtz Munich institutional publication record"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "thalmeier2022objective",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:cWzG1nlazyYC",
+    "scholar_id": "zplWERYAAAAJ:cWzG1nlazyYC"
   },
   {
-    "title": "Ocean mover's distance: Using optimal transport for analysing oceanographic data",
+    "title": "Ocean mover’s distance: using optimal transport for analysing oceanographic data",
     "venue": "Proc. R. Soc. London A 478:20210875 (2022) · 2022",
     "year": 2022,
     "authors": "Hyun, S. ; Mishra, A. ; Follett, C.L. ; Jönsson, B. ; Kulk, G. ; Forget, G. ; Racault, M.F. ; Jackson, T. ; Dutkiewicz, S. ; Müller, C.L. ; Bien, J.",
     "paper": "https://doi.org/10.1098/rspa.2021.0875",
     "code": "https://github.com/sangwon-hyun/omd",
     "docs": null,
-    "source": "Existing verified paper record / publisher metadata",
-    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=65517&la=de"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=65517&la=de",
+    "bibtex_key": "hyun2022ocean",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:QYdC8u9Cj1oC",
+    "scholar_id": "zplWERYAAAAJ:QYdC8u9Cj1oC"
   },
   {
     "title": "Robust regression with compositional covariates",
@@ -331,7 +560,10 @@
     "paper": "https://doi.org/10.1016/j.csda.2021.107315",
     "code": null,
     "docs": null,
-    "source": "Existing verified paper record / publisher metadata"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "mishra2022robust",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:a9-T7VOCCH8C",
+    "scholar_id": "zplWERYAAAAJ:a9-T7VOCCH8C"
   },
   {
     "title": "Stability selection enables robust learning of differential equations from limited noisy data",
@@ -341,7 +573,10 @@
     "paper": "https://doi.org/10.1098/rspa.2021.0916",
     "code": null,
     "docs": null,
-    "source": "Existing verified paper record / publisher metadata"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "maddu2022stability",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:GFxP56DSvIMC",
+    "scholar_id": "zplWERYAAAAJ:GFxP56DSvIMC"
   },
   {
     "title": "Topology adaptive graph estimation in high dimensions",
@@ -349,17 +584,23 @@
     "authors": "Lederer, J. ; Müller, C.L.",
     "venue": "Mathematics 10:1244 (2022) · 2022",
     "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=64911&la=de",
-    "source": "Helmholtz Munich institutional publication record"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "lederer2022topology",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:3htObqc8RwsC",
+    "scholar_id": "zplWERYAAAAJ:3htObqc8RwsC"
   },
   {
-    "title": "c-lasso",
+    "title": "c-lasso - a Python package for constrained sparse and robust regression and classification",
     "venue": "JOSS · 2021",
     "year": 2021,
-    "authors": "",
+    "authors": "Simpson, Léo; Combettes, Patrick L; Müller, Christian L",
     "paper": "https://doi.org/10.21105/joss.02844",
     "code": "https://github.com/bio-datascience/c-lasso",
     "docs": "https://c-lasso.readthedocs.io/",
-    "source": "Existing verified paper record / publisher metadata"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "simpson2021c",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:XoXfffV-tXoC",
+    "scholar_id": "zplWERYAAAAJ:XoXfffV-tXoC"
   },
   {
     "title": "Fast computation of latent correlations",
@@ -367,25 +608,44 @@
     "authors": "Yoon, G. ; Müller, C.L. ; Gaynanova, I.",
     "venue": "J. Comput. Graph. Stat. 30, 1249-1256 (2021) · 2021",
     "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=61722&la=de",
-    "source": "Helmholtz Munich institutional publication record"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "yoon2021fast",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:-FonjvnnhkoC",
+    "scholar_id": "zplWERYAAAAJ:-FonjvnnhkoC"
   },
   {
-    "title": "GGLasso - a Python package for General Graphical Lasso computation",
+    "title": "GGLasso-a Python package for General Graphical Lasso computation",
     "venue": "JOSS · 2021",
     "year": 2021,
     "authors": "Fabian Schaipp; Oleg Vlasovets; Christian Müller",
     "paper": "https://doi.org/10.21105/joss.03865",
     "code": "https://github.com/bio-datascience/GGLasso",
     "docs": "https://gglasso.readthedocs.io/en/latest/",
-    "source": "Existing verified paper record / publisher metadata"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "schaipp2021gglasso",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:bKqednn6t2AC",
+    "scholar_id": "zplWERYAAAAJ:bKqednn6t2AC"
   },
   {
-    "title": "Learning computable models from data",
+    "title": "latentcor: An R Package for estimating latent correlations from mixed data types",
+    "bibtex_key": "huang2021latentcor",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Huang, Mingze; Müller, Christian L; Gaynanova, Irina",
+    "year": 2021,
+    "venue": "Journal of Open Source Software 1 (6(65)), 3634 · 2021",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:XvxMoLDsR5gC",
+    "scholar_id": "zplWERYAAAAJ:XvxMoLDsR5gC"
+  },
+  {
+    "title": "LEARNING COMPUTABLE MODELS FROM DATA",
     "year": 2021,
     "authors": "Maddu, S. ; Sturm, D. ; Cheeseman, B.L. ; Müller, C.L.",
     "venue": "In: (14th World Congress in Computational Mechanics (WCCM), ECCOMAS Congress 2020, 11-15 January 2021, Barcelona). 2021. 1-6 ( ; 1700) · 2021",
     "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=63937&la=de",
-    "source": "Helmholtz Munich institutional publication record"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "maddu2021learning",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:86PQX7AUzd4C",
+    "scholar_id": "zplWERYAAAAJ:86PQX7AUzd4C"
   },
   {
     "title": "Learning physically consistent differential equation models from data using group sparsity",
@@ -393,25 +653,25 @@
     "authors": "Maddu, S. ; Cheeseman, B.L. ; Müller, C.L. ; Sbalzarini, I.F.",
     "venue": "Phys. Rev. E 103:042310 (2021) · 2021",
     "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=61896&la=de",
-    "source": "Helmholtz Munich institutional publication record"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "maddu2021learning__duplicate2",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:Ri6SYOTghG4C",
+    "scholar_id": "zplWERYAAAAJ:Ri6SYOTghG4C"
   },
   {
-    "title": "NetCoMi",
-    "venue": "Briefings in Bioinformatics · 2021",
-    "year": 2021,
-    "authors": "",
-    "paper": "https://doi.org/10.1093/bib/bbaa290",
-    "code": "https://github.com/stefpeschel/NetCoMi",
-    "docs": null,
-    "source": "Existing verified paper record / publisher metadata"
-  },
-  {
-    "title": "NetCoMi: Network construction and comparison for microbiome data in R",
+    "title": "NetCoMi: network construction and comparison for microbiome data in R",
     "year": 2021,
     "authors": "Peschel, S. ; Müller, C.L. ; von Mutius, E. ; Boulesteix, A.L. ; Depner, M.",
     "venue": "Brief. Bioinform. 22, DOI: 10.1093/bib/bbaa290 (2021) · 2021",
     "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=60782&la=de",
-    "source": "Helmholtz Munich institutional publication record"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "bibtex_key": "peschel2020netcomi",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:w1MjKQ0l0TYC",
+    "duplicate_bibtex_keys": [
+      "peschel2021netcomi",
+      "peschel10mu"
+    ],
+    "scholar_id": "zplWERYAAAAJ:w1MjKQ0l0TYC"
   },
   {
     "title": "Regression models for compositional data: General log-contrast formulations, proximal optimization, and microbiome data applications",
@@ -421,8 +681,11 @@
     "paper": "https://doi.org/10.1007/s12561-020-09283-2",
     "code": null,
     "docs": null,
-    "source": "Existing verified paper record / publisher metadata",
-    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=59570&la=de"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=59570&la=de",
+    "bibtex_key": "combettes2021regression",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:IUKN3-7HHlwC",
+    "scholar_id": "zplWERYAAAAJ:IUKN3-7HHlwC"
   },
   {
     "title": "scCODA is a Bayesian model for compositional single-cell data analysis",
@@ -432,8 +695,15 @@
     "paper": "https://www.nature.com/articles/s41467-021-27150-6",
     "code": null,
     "docs": "https://sccoda.readthedocs.io/",
-    "source": "Existing verified paper record / publisher metadata",
-    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=63628&la=de"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=63628&la=de",
+    "bibtex_key": "buettner2021sccoda",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:dBIO0h50nwkC",
+    "duplicate_bibtex_keys": [
+      "buttner2021sccoda",
+      "buttnersccoda"
+    ],
+    "scholar_id": "zplWERYAAAAJ:dBIO0h50nwkC"
   },
   {
     "title": "tascCODA: Bayesian tree-aggregated analysis of compositional amplicon and single-cell data",
@@ -443,8 +713,11 @@
     "paper": "https://doi.org/10.3389/fgene.2021.766405",
     "code": "https://github.com/bio-datascience/tascCODA",
     "docs": null,
-    "source": "Existing verified paper record / publisher metadata",
-    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=63516&la=de"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=63516&la=de",
+    "bibtex_key": "ostner2021tasccoda",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:mNrWkgRL2YcC",
+    "scholar_id": "zplWERYAAAAJ:mNrWkgRL2YcC"
   },
   {
     "title": "Tree-aggregated predictive modeling of microbiome data",
@@ -454,7 +727,646 @@
     "paper": "https://doi.org/10.1038/s41598-021-93645-3",
     "code": "https://github.com/jacobbien/trac",
     "docs": "https://jacobbien.github.io/trac/",
-    "source": "Existing verified paper record / publisher metadata",
-    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=62570&la=de"
+    "source": "Google Scholar export supplied by user, November 2026",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=62570&la=de",
+    "bibtex_key": "bien2021tree",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:OTTXONDVkokC",
+    "scholar_id": "zplWERYAAAAJ:OTTXONDVkokC"
+  },
+  {
+    "title": "Perspective maximum likelihood-type estimation via proximal decomposition",
+    "bibtex_key": "combettes2020perspective",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Combettes, Patrick L; Müller, Christian L",
+    "year": 2020,
+    "venue": "Electronic Journal of Statistics 14 (1), 207–238 · 2020",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:t7zJ5fGR-2UC",
+    "scholar_id": "zplWERYAAAAJ:t7zJ5fGR-2UC"
+  },
+  {
+    "title": "Shrinkage improves estimation of microbial associations under different normalization methods",
+    "bibtex_key": "badri2020shrinkage",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Badri, Michelle; Kurtz, Zachary D; Bonneau, Richard; Müller, Christian L",
+    "year": 2020,
+    "venue": "NAR genomics and bioinformatics 2 (4), lqaa100 · 2020",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:oNZyr7d5Mn4C",
+    "scholar_id": "zplWERYAAAAJ:oNZyr7d5Mn4C"
+  },
+  {
+    "title": "263–Gut Microbiota Profiling in a Prospective Population Cohort in Relation to Metabolic Health",
+    "bibtex_key": "reitmeier2019263",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Reitmeier, Sandra; Clavel, Thomas; Neuhaus, Klaus; Thingholm, Louise; Troll, Martina; Sommer, Alice; Grallert, Harald; Müller, Christian L; Franke, Andre; Peters, Annette; others",
+    "year": 2019,
+    "venue": "Gastroenterology 156 (6), S–50 · 2019",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:g3aElNc5_aQC",
+    "scholar_id": "zplWERYAAAAJ:g3aElNc5_aQC"
+  },
+  {
+    "title": "Disentangling microbial associations from hidden environmental and technical factors via latent graphical models",
+    "bibtex_key": "kurtz2019disentangling",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Kurtz, Zachary D; Bonneau, Richard; Müller, Christian L",
+    "year": 2019,
+    "venue": "BioRxiv, 2019–12 · 2019",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:k8Z6L05lTy4C",
+    "scholar_id": "zplWERYAAAAJ:k8Z6L05lTy4C"
+  },
+  {
+    "title": "Microbial networks in SPRING-Semi-parametric rank-based correlation and partial correlation estimation for quantitative microbiome data",
+    "bibtex_key": "yoon2019microbial",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Yoon, Grace; Gaynanova, Irina; Müller, Christian L",
+    "year": 2019,
+    "venue": "Frontiers in genetics 10, 516 · 2019",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:uc_IGeMz5qoC",
+    "scholar_id": "zplWERYAAAAJ:uc_IGeMz5qoC"
+  },
+  {
+    "title": "Prediction error bounds for linear regression with the TREX",
+    "bibtex_key": "bien2019prediction",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Bien, Jacob; Gaynanova, Irina; Lederer, Johannes; Müller, Christian L",
+    "year": 2019,
+    "venue": "Test 28 (2), 451–474 · 2019",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:-_dYPAW6P2MC",
+    "scholar_id": "zplWERYAAAAJ:-_dYPAW6P2MC"
+  },
+  {
+    "title": "Discovering patterns of pleiotropy in genome-wide association studies",
+    "bibtex_key": "zhana2018discovering",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Zhana, Jianan; CHARGE ECG Working Group; Setten, Jessica van; Brody, Jennifer; Swenson, Brenton; Butler, Anne M; Campbell, Harry; Greco, Fabiola Del; Evans, Daniel S; Gibson, Quince; others",
+    "year": 2018,
+    "venue": "bioRxiv, 273540 · 2018",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:yFnVuubrUp4C",
+    "scholar_id": "zplWERYAAAAJ:yFnVuubrUp4C"
+  },
+  {
+    "title": "Fungi stabilize connectivity in the lung and skin microbial ecosystems",
+    "bibtex_key": "tipton2018fungi",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Tipton, Laura; Müller, Christian L; Kurtz, Zachary D; Huang, Laurence; Kleerup, Eric; Morris, Alison; Bonneau, Richard; Ghedin, Elodie",
+    "year": 2018,
+    "venue": "Microbiome 6, 1–14 · 2018",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:fEOibwPWpKIC",
+    "duplicate_bibtex_keys": [
+      "tipton2018fungi__duplicate2"
+    ],
+    "scholar_id": "zplWERYAAAAJ:fEOibwPWpKIC"
+  },
+  {
+    "title": "Modeling Marine Microbial Time Series Data using Sparse High-dimensional Regression Methods",
+    "bibtex_key": "mueller2018modeling",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Mueller, Christian Lorenz",
+    "year": 2018,
+    "venue": "American Geophysical Union, Ocean Sciences Meeting, OD53B–08 · 2018",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:0N-VGjzr574C",
+    "scholar_id": "zplWERYAAAAJ:0N-VGjzr574C"
+  },
+  {
+    "title": "Non-convex global minimization and false discovery rate control for the TREX",
+    "bibtex_key": "bien2018non",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Bien, Jacob; Gaynanova, Irina; Lederer, Johannes; Müller, Christian L",
+    "year": 2018,
+    "venue": "Journal of Computational and Graphical Statistics 27 (1), 23–33 · 2018",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:LjlpjdlvIbIC",
+    "scholar_id": "zplWERYAAAAJ:LjlpjdlvIbIC"
+  },
+  {
+    "title": "Normalization methods for microbial abundance data strongly affect correlation estimates",
+    "bibtex_key": "badri2018normalization",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Badri, Michelle; Kurtz, Zachary D; Müller, Christian L; Bonneau, Richard",
+    "year": 2018,
+    "venue": "BioRxiv, 406264 · 2018",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:kF1pexMAQbMC",
+    "scholar_id": "zplWERYAAAAJ:kF1pexMAQbMC"
+  },
+  {
+    "title": "Perspective functions: Proximal calculus and applications in high-dimensional statistics",
+    "bibtex_key": "combettes2018perspective",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Combettes, Patrick L; Müller, Christian L",
+    "year": 2018,
+    "venue": "Journal of Mathematical Analysis and Applications 457 (2), 1283–1306 · 2018",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:VOx2b1Wkg3QC",
+    "scholar_id": "zplWERYAAAAJ:VOx2b1Wkg3QC"
+  },
+  {
+    "title": "Temporal probabilistic modeling of bacterial compositions derived from 16S rRNA sequencing",
+    "bibtex_key": "aijo2018temporal",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Äijö, Tarmo; Müller, Christian L; Bonneau, Richard",
+    "year": 2018,
+    "venue": "Bioinformatics 34 (3), 372–380 · 2018",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:5Ul4iDaHHb8C",
+    "scholar_id": "zplWERYAAAAJ:5Ul4iDaHHb8C"
+  },
+  {
+    "title": "A single early-in-life macrolide course has lasting effects on murine microbial network topology and immunity",
+    "bibtex_key": "ruiz2017single",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Ruiz, Victoria E; Battaglia, Thomas; Kurtz, Zachary D; Bijnens, Luc; Ou, Amy; Engstrand, Isak; Zheng, Xuhui; Iizumi, Tadasu; Mullins, Briana J; Müller, Christian L; others",
+    "year": 2017,
+    "venue": "Nature communications 8 (1), 518 · 2017",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:UHK10RUVsp4C",
+    "scholar_id": "zplWERYAAAAJ:UHK10RUVsp4C"
+  },
+  {
+    "title": "Identifying direct contacts between protein complex subunits from their conditional dependence in proteomics datasets",
+    "bibtex_key": "drew2017identifying",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Drew, Kevin; Müller, Christian L; Bonneau, Richard; Marcotte, Edward M",
+    "year": 2017,
+    "venue": "PLoS computational biology 13 (10), e1005625 · 2017",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:_Ybze24A_UAC",
+    "scholar_id": "zplWERYAAAAJ:_Ybze24A_UAC"
+  },
+  {
+    "title": "L p-adaptation: Simultaneous design centering and robustness estimation of electronic and biological systems",
+    "bibtex_key": "asmus2017p",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Asmus, Josefine; Müller, Christian L; Sbalzarini, Ivo F",
+    "year": 2017,
+    "venue": "Scientific reports 7 (1), 6660 · 2017",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:dQ2og3OwTAUC",
+    "scholar_id": "zplWERYAAAAJ:dQ2og3OwTAUC"
+  },
+  {
+    "title": "SpiecEasi: Sparse inverse covariance for ecological statistical inference",
+    "bibtex_key": "kurtz2017spieceasi",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Kurtz, Zachary; Müller, Christian L.; Miraldi, Emily; Bonneau, Richard",
+    "year": 2017,
+    "venue": "R package version 1 (2) · 2017",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:AXkvAH5U_nMC",
+    "scholar_id": "zplWERYAAAAJ:AXkvAH5U_nMC"
+  },
+  {
+    "title": "4C-ker: a method to reproducibly identify genome-wide interactions captured by 4C-Seq experiments",
+    "bibtex_key": "raviram20164c",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Raviram, Ramya; Rocha, Pedro P; Müller, Christian L; Miraldi, Emily R; Badri, Sana; Fu, Yi; Swanzey, Emily; Proudhon, Charlotte; Snetkova, Valentina; Bonneau, Richard; others",
+    "year": 2016,
+    "venue": "PLoS computational biology 12 (3), e1004780 · 2016",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:35N4QoGY0k4C",
+    "scholar_id": "zplWERYAAAAJ:35N4QoGY0k4C"
+  },
+  {
+    "title": "Antibiotic perturbation of the murine gut microbiome enhances the adiposity, insulin resistance, and liver disease associated with high-fat diet",
+    "bibtex_key": "mahana2016antibiotic",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Mahana, Douglas; Trent, Chad M; Kurtz, Zachary D; Bokulich, Nicholas A; Battaglia, Thomas; Chung, Jennifer; Müller, Christian L; Li, Huilin; Bonneau, Richard A; Blaser, Martin J",
+    "year": 2016,
+    "venue": "Genome medicine 8 (1), 48 · 2016",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:HoB7MX3m0LUC",
+    "scholar_id": "zplWERYAAAAJ:HoB7MX3m0LUC"
+  },
+  {
+    "title": "Fused regression for multi-source gene regulatory network inference",
+    "bibtex_key": "lam2016fused",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Lam, Kari Y; Westrick, Zachary M; Müller, Christian L; Christiaen, Lionel; Bonneau, Richard",
+    "year": 2016,
+    "venue": "PLoS computational biology 12 (12), e1005157 · 2016",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:PELIpwtuRlgC",
+    "scholar_id": "zplWERYAAAAJ:PELIpwtuRlgC"
+  },
+  {
+    "title": "Generalized Stability Approach for Regularized Graphical Models",
+    "bibtex_key": "muller2016generalized",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Müller, Christian L; Bonneau, Richard; Kurtz, Zachary D.",
+    "year": 2016,
+    "venue": "arXiv preprint arXiv:1605.07072 · 2016",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:CHSYGLWDkRkC",
+    "scholar_id": "zplWERYAAAAJ:CHSYGLWDkRkC"
+  },
+  {
+    "title": "Inferring causal molecular networks: empirical assessment through a community-based effort",
+    "bibtex_key": "hill2016inferring",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Hill, Steven M; Heiser, Laura M; Cokelaer, Thomas; Unger, Michael; Nesser, Nicole K; Carlin, Daniel E; Zhang, Yang; Sokolov, Artem; Paull, Evan O; Wong, Chris K; others",
+    "year": 2016,
+    "venue": "Nature methods 13 (4), 310–318 · 2016",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:2P1L_qKh6hAC",
+    "scholar_id": "zplWERYAAAAJ:2P1L_qKh6hAC"
+  },
+  {
+    "title": "Robust classification of protein variation using structural modelling and large-scale data integration",
+    "bibtex_key": "baugh2016robust",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Baugh, Evan H; Simmons-Edler, Riley; Müller, Christian L; Alford, Rebecca F; Volfovsky, Natalia; Lash, Alex E; Bonneau, Richard",
+    "year": 2016,
+    "venue": "Nucleic acids research 44 (6), 2501–2513 · 2016",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:vV6vV6tmYwMC",
+    "scholar_id": "zplWERYAAAAJ:vV6vV6tmYwMC"
+  },
+  {
+    "title": "Variable metric random pursuit",
+    "bibtex_key": "stich2016variable",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Stich, Sebastian U; Müller, Christian L; Gärtner, Bernd",
+    "year": 2016,
+    "venue": "Mathematical Programming 156 (1), 549–579 · 2016",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:1yQoGdGgb4wC",
+    "scholar_id": "zplWERYAAAAJ:1yQoGdGgb4wC"
+  },
+  {
+    "title": "Don't fall for tuning parameters: tuning-free variable selection in high dimensions with the TREX",
+    "bibtex_key": "lederer2015don",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Lederer, Johannes; Müller, Christian",
+    "year": 2015,
+    "venue": "Proceedings of the AAAI conference on artificial intelligence 29 (1) · 2015",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:IRz6iEL74y4C",
+    "scholar_id": "zplWERYAAAAJ:IRz6iEL74y4C"
+  },
+  {
+    "title": "Multiple abiotic stimuli are integrated in the regulation of rice gene expression under field conditions",
+    "bibtex_key": "plessis2015multiple",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Plessis, Anne; Hafemeister, Christoph; Wilkins, Olivia; Gonzaga, Zennia Jean; Meyer, Rachel Sarah; Pires, Inês; Müller, Christian; Septiningsih, Endang M; Bonneau, Richard; Purugganan, Michael",
+    "year": 2015,
+    "venue": "Elife 4, e08411 · 2015",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:70eg2SAEIzsC",
+    "scholar_id": "zplWERYAAAAJ:70eg2SAEIzsC"
+  },
+  {
+    "title": "Sparse and compositionally robust inference of microbial ecological networks",
+    "bibtex_key": "kurtz2015sparse",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Kurtz, Zachary D; Müller, Christian L; Miraldi, Emily R; Littman, Dan R; Blaser, Martin J; Bonneau, Richard A",
+    "year": 2015,
+    "venue": "PLoS computational biology 11 (5), e1004226 · 2015",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:mlAyqtXpCwEC",
+    "duplicate_bibtex_keys": [
+      "kurtz2015mu"
+    ],
+    "scholar_id": "zplWERYAAAAJ:mlAyqtXpCwEC"
+  },
+  {
+    "title": "One third of dynamic protein expression profiles can be predicted by a simple rate equation",
+    "bibtex_key": "tchourine2014one",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Tchourine, Konstantine; Poultney, Christopher S; Wang, Li; Silva, Gustavo M; Manohar, Sandhya; Mueller, Christian L; Bonneau, Richard; Vogel, Christine",
+    "year": 2014,
+    "venue": "Molecular BioSystems 10 (11), 2850–2862 · 2014",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:blknAaTinKkC",
+    "scholar_id": "zplWERYAAAAJ:blknAaTinKkC"
+  },
+  {
+    "title": "Stochastic methods for single objective global optimization",
+    "bibtex_key": "muller2014stochastic",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Müller, Christian Lorenz",
+    "year": 2014,
+    "venue": "Computational intelligence in aerospace sciences · 2014",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:P5F9QuxV20EC",
+    "scholar_id": "zplWERYAAAAJ:P5F9QuxV20EC"
+  },
+  {
+    "title": "Matrix-valued iterative random projections",
+    "bibtex_key": "stich2013matrix",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Stich, SU; Müller, CL; Gärtner, B",
+    "year": 2013,
+    "venue": "Technical report, ETH Zürich, 2013. Technical Report CGL-TR-87 · 2013",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:GtLg2Ama23sC",
+    "scholar_id": "zplWERYAAAAJ:GtLg2Ama23sC"
+  },
+  {
+    "title": "Optimization of convex functions with random pursuit",
+    "bibtex_key": "stich2013optimization",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Stich, Sebastian U; Muller, Christian L; Gartner, Bernd",
+    "year": 2013,
+    "venue": "SIAM Journal on Optimization 23 (2), 1284–1309 · 2013",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:D_sINldO8mEC",
+    "scholar_id": "zplWERYAAAAJ:D_sINldO8mEC"
+  },
+  {
+    "title": "Towards functional orthogonalisation of protein complexes: individualisation of GroEL monomers leads to distinct quasihomogeneous single rings",
+    "bibtex_key": "billerbeck2013towards",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Billerbeck, Sonja; Calles, Belén; Müller, Christian L; de Lorenzo, Victor; Panke, Sven",
+    "year": 2013,
+    "venue": "ChemBioChem 14 (17), 2310–2321 · 2013",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:isC4tDSrTZIC",
+    "scholar_id": "zplWERYAAAAJ:isC4tDSrTZIC"
+  },
+  {
+    "title": "Towards Morse Theory for Point Cloud Data",
+    "bibtex_key": "cazals2013towards",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Cazals, Frederic; Roth, Andrea; Robert, Charles; Mueller, Christian L.",
+    "year": 2013,
+    "venue": "2013",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:JV2RwH3_ST0C",
+    "scholar_id": "zplWERYAAAAJ:JV2RwH3_ST0C"
+  },
+  {
+    "title": "Energy landscapes of atomic clusters as black-box optimization benchmarks",
+    "bibtex_key": "muller2012energy",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Müller, CL; Sbalzarini, IF",
+    "year": 2012,
+    "venue": "Evolutionary Computation · 2012",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:Zph67rFs4hoC",
+    "scholar_id": "zplWERYAAAAJ:Zph67rFs4hoC"
+  },
+  {
+    "title": "Global parameter identification of stochastic reaction networks from single trajectories",
+    "bibtex_key": "muller2012global",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Müller, Christian L; Ramaswamy, Rajesh; Sbalzarini, Ivo F",
+    "year": 2012,
+    "venue": "Advances in Systems Biology, 477–498 · 2012",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:Y0pCki6q_DkC",
+    "scholar_id": "zplWERYAAAAJ:Y0pCki6q_DkC"
+  },
+  {
+    "title": "Implementation and Performance Comparison of an Ensemble Sampler with Affine Invariance",
+    "bibtex_key": "lampart2012implementation",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Lampart, Tom; Müller, Christian L; Sbalzarini, Ivo F",
+    "year": 2012,
+    "venue": "Technical Report, ETH Zürich · 2012",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:0KyAp5RtaNEC",
+    "scholar_id": "zplWERYAAAAJ:0KyAp5RtaNEC"
+  },
+  {
+    "title": "On Spectral Invariance of Randomized Hessian and Covariance Matrix Adaptation Schemes",
+    "bibtex_key": "stich2012spectral",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Stich, Sebastian; Müller, Christian",
+    "year": 2012,
+    "venue": "Parallel Problem Solving from Nature-PPSN XII, 448–457 · 2012",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:qUcmZB5y_30C",
+    "scholar_id": "zplWERYAAAAJ:qUcmZB5y_30C"
+  },
+  {
+    "title": "A conjecture about an upper bound of the RMSD between linear chains",
+    "bibtex_key": "muller2011conjecture",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Müller, Christian L; Sbalzarini, Ivo F",
+    "year": 2011,
+    "venue": "European Workshop on Computational Geometry · 2011",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:W7OEmFMy1HYC",
+    "scholar_id": "zplWERYAAAAJ:W7OEmFMy1HYC"
+  },
+  {
+    "title": "Continuous black-box optimization in linearly constrained domains using efficient Gibbs sampling",
+    "bibtex_key": "muller2011continuous",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Müller, Christian L.",
+    "year": 2011,
+    "venue": "EVOLVE, Workshop on Probability, Set Oriented Numerics and Evolutionary Computation 1 · 2011",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:0EnyYjriUFMC",
+    "scholar_id": "zplWERYAAAAJ:0EnyYjriUFMC"
+  },
+  {
+    "title": "Finding maximizing Euclidean TSP tours for the Häme-Hyytiä-Hakula conjecture",
+    "bibtex_key": "muller2011finding",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Müller, Christian L",
+    "year": 2011,
+    "venue": "Technical report, Technical Report CGL-TR-13, ETHZ · 2011",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:Tyk-4Ss8FVUC",
+    "scholar_id": "zplWERYAAAAJ:Tyk-4Ss8FVUC"
+  },
+  {
+    "title": "GAUSSIAN ADAPTATION FOR ROBUST DESIGN CENTERING",
+    "bibtex_key": "muller2011gaussian",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Müller, Christian L; Sbalzarini, Ivo F",
+    "year": 2011,
+    "venue": "Eurogen 2011 · 2011",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:Se3iqnhoufwC",
+    "scholar_id": "zplWERYAAAAJ:Se3iqnhoufwC"
+  },
+  {
+    "title": "Global characterization of the CEC 2005 fitness landscapes using fitness-distance analysis",
+    "bibtex_key": "muller2011global",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Müller, Christian L; Sbalzarini, Ivo F",
+    "year": 2011,
+    "venue": "European conference on the applications of evolutionary computation, 294–303 · 2011",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:IjCSPb-OGe4C",
+    "scholar_id": "zplWERYAAAAJ:IjCSPb-OGe4C"
+  },
+  {
+    "title": "SENSITIVITY ANALYSIS FROM EVOLUTIONARY ALGORITHM SEARCH PATHS",
+    "bibtex_key": "paul2011sensitivity",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Paul, G; Müller, CL; Sbalzarini, IF",
+    "year": 2011,
+    "venue": "EVOLVE, Workshop on Probability, Set Oriented Numerics and Evolutionary Computation · 2011",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:MXK_kJrjxJIC",
+    "scholar_id": "zplWERYAAAAJ:MXK_kJrjxJIC"
+  },
+  {
+    "title": "Black-box Landscapes: Characterization, Optimization, Sampling, and Application to Geometric Configuration Problems",
+    "bibtex_key": "muller2010black",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Müller, Christian L",
+    "year": 2010,
+    "venue": "ETH Zürich · 2010",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:u-x6o8ySG0sC",
+    "scholar_id": "zplWERYAAAAJ:u-x6o8ySG0sC"
+  },
+  {
+    "title": "Exploring the common concepts of adaptive MCMC and Covariance Matrix Adaptation schemes",
+    "bibtex_key": "muller2010exploring",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Müller, Christian L",
+    "year": 2010,
+    "venue": "Theory of Evolutionary Algorithms · 2010",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:qjMakFHDy7sC",
+    "scholar_id": "zplWERYAAAAJ:qjMakFHDy7sC"
+  },
+  {
+    "title": "Gaussian Adaptation as a unifying framework for continuous black-box optimization and adaptive Monte Carlo sampling",
+    "bibtex_key": "muller2010gaussian__duplicate2",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Müller, Christian L; Sbalzarini, Ivo F",
+    "year": 2010,
+    "venue": "IEEE congress on evolutionary computation, 1–8 · 2010",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:LkGwnXOMwfcC",
+    "scholar_id": "zplWERYAAAAJ:LkGwnXOMwfcC"
+  },
+  {
+    "title": "Gaussian adaptation revisited–an entropic view on covariance matrix adaptation",
+    "bibtex_key": "muller2010gaussian",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Müller, Christian L; Sbalzarini, Ivo F",
+    "year": 2010,
+    "venue": "European Conference on the Applications of Evolutionary Computation, 432–441 · 2010",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:u5HHmVD_uO8C",
+    "scholar_id": "zplWERYAAAAJ:u5HHmVD_uO8C"
+  },
+  {
+    "title": "How accurately can we estimate the number of minima of a fitness landscape?",
+    "bibtex_key": "muller2010accurately",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Müller, Christian L",
+    "year": 2010,
+    "venue": "2010",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:eQOLeE2rZwMC",
+    "scholar_id": "zplWERYAAAAJ:eQOLeE2rZwMC"
+  },
+  {
+    "title": "pCMALib-Manual for version 1.0",
+    "bibtex_key": "muller2010pcmalib",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Müller, Christian Lorenz; Ofenbeck, Georg; Baumgartner, Benedikt; Sbalzarini, Ivo F",
+    "year": 2010,
+    "venue": "2010",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:zYLM7Y9cAGgC",
+    "scholar_id": "zplWERYAAAAJ:zYLM7Y9cAGgC"
+  },
+  {
+    "title": "A Tunable Real-world Multi-funnel Benchmark Problem for Evolutionary Optimization-And Why Parallel Island Models Might Remedy the Failure of CMA-ES on It",
+    "bibtex_key": "muller2009tunable",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Müller, CL; Sbalzarini, IF",
+    "year": 2009,
+    "venue": "Proc. of the International Joint Conference on Computational Intelligence (IJCCI), October, 5–7 · 2009",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:UebtZRa9Y70C",
+    "scholar_id": "zplWERYAAAAJ:UebtZRa9Y70C"
+  },
+  {
+    "title": "Benchmark runs of pCMALib on Nehalem and Shanghai nodes",
+    "bibtex_key": "muller2009benchmark",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Müller, Christian L",
+    "year": 2009,
+    "venue": "MOSAIC technical report · 2009",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:kuK5TVdYjLIC",
+    "scholar_id": "zplWERYAAAAJ:kuK5TVdYjLIC"
+  },
+  {
+    "title": "CMA-ES and its application to potential energy landscapes",
+    "bibtex_key": "ofenbeck2009cma",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Ofenbeck, Georg",
+    "year": 2009,
+    "venue": "2009",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:DUooU5lO8OsC",
+    "scholar_id": "zplWERYAAAAJ:DUooU5lO8OsC"
+  },
+  {
+    "title": "Global Optimization of Lennard Jones Clusters with PS-CMA-ES (Particle Swarm-Covariance Matrix Adaptation-Evolutionary Strategy)",
+    "bibtex_key": "misteli2009global",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Misteli, Yannick; Mueller, Christian L; Sbalzarini, Ivo F",
+    "year": 2009,
+    "venue": "2009",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:q3oQSFYPqjQC",
+    "scholar_id": "zplWERYAAAAJ:q3oQSFYPqjQC"
+  },
+  {
+    "title": "In the eye of the beholder: Inhomogeneous distribution of high-resolution shapes within the random-walk ensemble",
+    "bibtex_key": "muller2009eye",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Müller, Christian L; Sbalzarini, Ivo F; van Gunsteren, Wilfred F; Žagrović, Bojan; Hünenberger, Philippe H",
+    "year": 2009,
+    "venue": "The Journal of chemical physics 130 (21) · 2009",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:d1gkVwhDpl0C",
+    "scholar_id": "zplWERYAAAAJ:d1gkVwhDpl0C"
+  },
+  {
+    "title": "Particle swarm CMA evolution strategy for the optimization of multi-funnel landscapes",
+    "bibtex_key": "muller2009particle",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Muller, Christian L; Baumgartner, Benedikt; Sbalzarini, Ivo F",
+    "year": 2009,
+    "venue": "Evolutionary Computation, 2009. CEC'09. IEEE Congress on, 2685–2692 · 2009",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:_FxGoFyzp5QC",
+    "scholar_id": "zplWERYAAAAJ:_FxGoFyzp5QC"
+  },
+  {
+    "title": "pCMALib: a parallel fortran 90 library for the evolution strategy with covariance matrix adaptation",
+    "bibtex_key": "muller2009pcmalib",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Müller, Christian L; Baumgartner, Benedikt; Ofenbeck, Georg; Schrader, Birte; Sbalzarini, Ivo F",
+    "year": 2009,
+    "venue": "Proceedings of the 11th Annual conference on Genetic and evolutionary computation, 1411–1418 · 2009",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:9yKSN-GCB0IC",
+    "scholar_id": "zplWERYAAAAJ:9yKSN-GCB0IC"
+  },
+  {
+    "title": "Statistical analysis of fitness values in CMA-ES",
+    "bibtex_key": "paul2009statistical",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Paul, Gregory",
+    "year": 2009,
+    "venue": "2009",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:6ZxmRoH8BuwC",
+    "scholar_id": "zplWERYAAAAJ:6ZxmRoH8BuwC"
+  },
+  {
+    "title": "Global Suppressor Mutations (GSM) in terms of structural and physico-chemical properties and implications for future projects",
+    "bibtex_key": "misteli2008global",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Misteli, Yannick; Mueller, Christian L.; Sbalzarini, Ivo F",
+    "year": 2008,
+    "venue": "2008",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:mvPsJ3kp5DgC",
+    "scholar_id": "zplWERYAAAAJ:mvPsJ3kp5DgC"
+  },
+  {
+    "title": "A Systems Biology Markup Language Model of a T-Cell Receptor Activated Signal Transduction Network",
+    "bibtex_key": "tuvsek2007systems",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Tušek, Ana; Müller, Lorenz; Christian, Supper; Jochen, Zell; Andreas, Kurtanjek Želimir; Sbalzarini, Ivo",
+    "year": 2007,
+    "venue": "ITI 2007 29 th Int. Conf. on Information Technology Interfaces · 2007",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:8k81kl-MbHgC",
+    "scholar_id": "zplWERYAAAAJ:8k81kl-MbHgC"
+  },
+  {
+    "title": "Efficient simulation of automotive multi-physical systems by optimization with evolutionary algorithms",
+    "bibtex_key": "dolling2007efficient",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Dölling, Rolando; Mielenz, Holger; Müller, Christian Lorenz",
+    "year": 2007,
+    "venue": "Proceedings of the International Conference on Applied Simulation and Modeling (ASM) · 2007",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:2osOgNQ5qMEC",
+    "scholar_id": "zplWERYAAAAJ:2osOgNQ5qMEC"
+  },
+  {
+    "title": "Sensitivities for free: CMA-ES based sensitivity analysis",
+    "bibtex_key": "muller2007sensitivities",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Müller, CL; Paul, G; Sbalzarini, Ivo F",
+    "year": 2007,
+    "venue": "5th International Conference on Sensitivity Analysis of Model Output (SAMO 2007) · 2007",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:JQOojiI6XY0C",
+    "scholar_id": "zplWERYAAAAJ:JQOojiI6XY0C"
+  },
+  {
+    "title": "High order accurate numerical solution of the linearized Euler equations for sound propagation in the atmosphere",
+    "bibtex_key": "muller2004high",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Müller, Christian Lorenz",
+    "year": 2004,
+    "venue": "Uppsala University · 2004",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:ufrVoPGSRksC",
+    "scholar_id": "zplWERYAAAAJ:ufrVoPGSRksC"
+  },
+  {
+    "title": "ENCODING KNOWLEDGE WITH GROUP SPARSITY FOR MODEL LEARNING FROM LIMITED AND NOISY BIOLOGICAL DATA",
+    "bibtex_key": "madduencoding",
+    "source": "Google Scholar export supplied by user, November 2026",
+    "authors": "Maddu, Suryanarayana; Cheeseman, Bevan L; Müller, Christian L; Sbalzarini, Ivo F",
+    "year": null,
+    "venue": "Year not supplied",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=zplWERYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=zplWERYAAAAJ:bz8QjSJIRt4C",
+    "scholar_id": "zplWERYAAAAJ:bz8QjSJIRt4C"
   }
 ]

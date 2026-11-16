@@ -5,6 +5,8 @@
   "description": "BioDS Munich group website",
   "scripts": {
     "dev": "python3 -m http.server 8000",
-    "check": "node --check app.js && python3 scripts/check_site.py"
+    "check": "node --check app.js && python3 scripts/check_site.py",
+    "publications:update": "python3 scripts/update_publications.py",
+    "publications:check": "python3 scripts/update_publications.py --check"
   }
 }

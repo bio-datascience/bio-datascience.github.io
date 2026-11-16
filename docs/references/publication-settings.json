@@ -1,0 +1,19 @@
+{
+  "profile": "zplWERYAAAAJ",
+  "excluded_titles": [
+    "The RNA ligase RtcB reverses MazF-induced ribosome heterogeneity in Escherichia coli",
+    "Potential environmental consequences of tertiary oil recovery",
+    "The Hot Serial Cereal Experiment for modeling wheat response to temperature: field experiments and AgMIP-Wheat multi-model simulations",
+    "Progress in modelling agricultural impacts of and adaptations to climate change",
+    "Early antiviral activity of CYSTUS052 against H5N1 influenza virus is more efficient compared to oseltamivir"
+  ],
+  "title_aliases": {
+    "Mü ller CL, Miraldi ER, Littman DR, Blaser MJ, Bonneau RA. 2015. Sparse and compositionally robust inference of microbial ecological networks": "Sparse and compositionally robust inference of microbial ecological networks",
+    "scCODA is a Bayesian model for compositional single-cell data analysis. Nat. Commun. 12, 6876": "scCODA is a Bayesian model for compositional single-cell data analysis",
+    "scCODA is a Bayes-ian model for compositional single-cell data analysis. Nat Commun. 2021; 12 (1): 6876": "scCODA is a Bayesian model for compositional single-cell data analysis",
+    "Single-cell Best Practices C., Schiller HB, and Theis FJ. 2023": "Best practices for single-cell analysis across modalities",
+    "NetCoMi: Network construction and comparison for microbiome data in R. Briefings in Bioinformatics, 22 (4), bbaa290": "NetCoMi: network construction and comparison for microbiome data in R",
+    "Mü ller, CL, Mutius, E., von, Boulesteix, A.-L., and Depner, M.(2020). NetCoMi: network construction and comparison for microbiome data in R": "NetCoMi: network construction and comparison for microbiome data in R",
+    "Fungi stabilize connectivity in the lung and skin microbial ecosystems. Microbiome 6: 12": "Fungi stabilize connectivity in the lung and skin microbial ecosystems"
+  }
+}

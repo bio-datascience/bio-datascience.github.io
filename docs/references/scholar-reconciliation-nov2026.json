@@ -1,0 +1,685 @@
+{
+  "source": "User-supplied citationsnov2026.txt",
+  "export_records": 134,
+  "displayed_records": 124,
+  "audit": [
+    {
+      "key": "muller2010gaussian",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "muller2010black",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "muller2009eye",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "muller2009pcmalib",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "dolling2007efficient",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "muller2010exploring",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "muller2011global",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "muller2010pcmalib",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "muller2011finding",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "muller2012global",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "muller2011conjecture",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "muller2010accurately",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "muller2004high",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "muller2009particle",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "muller2010gaussian__duplicate2",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "muller2011gaussian",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "muller2009tunable",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "muller2011continuous",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "tuvsek2007systems",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "paul2011sensitivity",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "muller2012energy",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "stich2012spectral",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "billerbeck2013towards",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "cazals2013towards",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "tchourine2014one",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "baugh2016robust",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "raviram20164c",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "plessis2015multiple",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "hill2016inferring",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "mahana2016antibiotic",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "muller2016generalized",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "muller2014stochastic",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "aijo2018temporal",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "combettes2018perspective",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "stich2013optimization",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "misteli2009global",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "misteli2008global",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "lam2016fused",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "bien2018non",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "stich2016variable",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "asmus2017p",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "ruiz2017single",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "muller2007sensitivities",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "drew2017identifying",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "bien2019prediction",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "tipton2018fungi",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "combettes2020perspective",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "lampart2012implementation",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "yoon2019microbial",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "reitmeier2019263",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "muller2009benchmark",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "temmel2017rna",
+      "action": "excluded",
+      "reason": "Explicit user exclusion"
+    },
+    {
+      "key": "kurtz2019disentangling",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "badri2020shrinkage",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "yoon2021fast",
+      "action": "merged",
+      "matched_existing_title": "Fast computation of latent correlations"
+    },
+    {
+      "key": "simpson2021c",
+      "action": "merged",
+      "matched_existing_title": "c-lasso"
+    },
+    {
+      "key": "mueller2018modeling",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "peschel2020netcomi",
+      "action": "merged",
+      "matched_existing_title": "NetCoMi: Network construction and comparison for microbiome data in R"
+    },
+    {
+      "key": "sommer2022randomization",
+      "action": "merged",
+      "matched_existing_title": "A randomization-based causal inference framework for uncovering environmental exposure effects on human gut microbiota"
+    },
+    {
+      "key": "maddu2021learning",
+      "action": "merged",
+      "matched_existing_title": "Learning computable models from data"
+    },
+    {
+      "key": "maddu2021learning__duplicate2",
+      "action": "merged",
+      "matched_existing_title": "Learning physically consistent differential equation models from data using group sparsity"
+    },
+    {
+      "key": "madduencoding",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "stich2013matrix",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "mishra2022robust",
+      "action": "merged",
+      "matched_existing_title": "Robust regression with compositional covariates"
+    },
+    {
+      "key": "huang2021latentcor",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "ofenbeck2009cma",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "paul2009statistical",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "lederer2015don",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "kurtz2015sparse",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "bien2021tree",
+      "action": "merged",
+      "matched_existing_title": "Tree-aggregated predictive modeling of microbiome data"
+    },
+    {
+      "key": "combettes2021regression",
+      "action": "merged",
+      "matched_existing_title": "Regression models for compositional data: General log-contrast formulations, proximal optimization, and microbiome data applications"
+    },
+    {
+      "key": "maddu2022inverse",
+      "action": "merged",
+      "matched_existing_title": "Inverse Dirichlet weighting enables reliable training of physics informed neural networks"
+    },
+    {
+      "key": "hyun2022ocean",
+      "action": "merged",
+      "matched_existing_title": "Ocean mover's distance: Using optimal transport for analysing oceanographic data"
+    },
+    {
+      "key": "buettner2021sccoda",
+      "action": "merged",
+      "matched_existing_title": "scCODA is a Bayesian model for compositional single-cell data analysis"
+    },
+    {
+      "key": "ostner2021tasccoda",
+      "action": "merged",
+      "matched_existing_title": "tascCODA: Bayesian tree-aggregated analysis of compositional amplicon and single-cell data"
+    },
+    {
+      "key": "thalmeier2022objective",
+      "action": "merged",
+      "matched_existing_title": "Objective hearing threshold identification from auditory brainstem response measurements using supervised and self-supervised approaches"
+    },
+    {
+      "key": "casey2022basin",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "schaipp2021gglasso",
+      "action": "merged",
+      "matched_existing_title": "GGLasso - a Python package for General Graphical Lasso computation"
+    },
+    {
+      "key": "zhana2018discovering",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "lederer2022topology",
+      "action": "merged",
+      "matched_existing_title": "Topology adaptive graph estimation in high dimensions"
+    },
+    {
+      "key": "rugamer2022factorized",
+      "action": "merged",
+      "matched_existing_title": "Factorized Structured Regression for Large-Scale Varying Coefficient Models"
+    },
+    {
+      "key": "mishra2022negative",
+      "action": "merged",
+      "matched_existing_title": "Negative binomial factor regression with application to microbiome data analysis"
+    },
+    {
+      "key": "maddu2022stability",
+      "action": "merged",
+      "matched_existing_title": "Stability selection enables robust learning of differential equations from limited noisy data"
+    },
+    {
+      "key": "ullmann2023over",
+      "action": "merged",
+      "matched_existing_title": "Over-optimism in unsupervised microbiome analysis: Insights from network learning and clustering"
+    },
+    {
+      "key": "simon2023microbial",
+      "action": "merged",
+      "matched_existing_title": "Microbial fingerprints reveal interaction between museum objects, curators, and visitors"
+    },
+    {
+      "key": "bukas2023echo2pheno",
+      "action": "merged",
+      "matched_existing_title": "Echo2Pheno: A deep-learning application to uncover echocardiographic phenotypes in conscious mice"
+    },
+    {
+      "key": "heumos2023best",
+      "action": "merged",
+      "matched_existing_title": "Best practices for single-cell analysis across modalities"
+    },
+    {
+      "key": "lin2023proteomic",
+      "action": "merged",
+      "matched_existing_title": "Proteomic profiling of longitudinal changes in kidney function among middle-aged and older men and women: The KORA S4/F4/FF4 study"
+    },
+    {
+      "key": "maddu2023stencil",
+      "action": "merged",
+      "matched_existing_title": "STENCIL-NET for equation-free forecasting from data"
+    },
+    {
+      "key": "kolb2023sparse",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "jonsson2023using",
+      "action": "merged",
+      "matched_existing_title": "Using Probability Density Functions to Evaluate Models (PDFEM, v1.0) to compare a biogeochemical model with satellite-derived chlorophyll"
+    },
+    {
+      "key": "rugamer2023deepregression",
+      "action": "merged",
+      "matched_existing_title": "deepregression: A flexible neural network framework for semi-structured deep distributional regression"
+    },
+    {
+      "key": "claussen2023scaffold",
+      "action": "merged",
+      "matched_existing_title": "Scaffold Matcher: A CMA-ES based algorithm for identifying hotspot aligned peptidomimetic scaffolds"
+    },
+    {
+      "key": "carcy2024metaibs",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "dietl2024rnf43",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "lin2024associations",
+      "action": "merged",
+      "matched_existing_title": "Associations of proteomics with hypertension and systolic blood pressure: KORA S4/F4/FF4 and KORA-Age1/Age2 Cohort Studies"
+    },
+    {
+      "key": "lukauskas2024decoding",
+      "action": "merged",
+      "matched_existing_title": "Decoding chromatin states by proteomic profiling of nucleosome readers"
+    },
+    {
+      "key": "stadler2024predictive",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "stadler2024asteria",
+      "action": "merged",
+      "matched_existing_title": "asteRIa enables robust interaction modeling between chromatin modifications and epigenetic readers"
+    },
+    {
+      "key": "ostner2024bacsc",
+      "action": "merged",
+      "matched_existing_title": "BacSC"
+    },
+    {
+      "key": "kurtz2017spieceasi",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "rauer2025biasing",
+      "action": "merged",
+      "matched_existing_title": "De-biasing microbiome sequencing data: Bacterial morphology-based correction of extraction bias and correlates of chimera formation"
+    },
+    {
+      "key": "ailer2025instrumental",
+      "action": "merged",
+      "matched_existing_title": "Instrumental variable estimation for compositional treatments"
+    },
+    {
+      "key": "braxton1976potential",
+      "action": "excluded",
+      "reason": "Apparent author misattribution; user approved omission"
+    },
+    {
+      "key": "martre2018hot",
+      "action": "excluded",
+      "reason": "Apparent author misattribution; user approved omission"
+    },
+    {
+      "key": "rotter2018progress",
+      "action": "excluded",
+      "reason": "Apparent author misattribution; user approved omission"
+    },
+    {
+      "key": "feldl2025statistical",
+      "action": "merged",
+      "matched_existing_title": "DGrowthR"
+    },
+    {
+      "key": "feldl2025biscot",
+      "action": "merged",
+      "matched_existing_title": "biscot"
+    },
+    {
+      "key": "olayo2025pre",
+      "action": "merged",
+      "matched_existing_title": "Pre-trained molecular representations enable antimicrobial discovery"
+    },
+    {
+      "key": "mishra2025variational",
+      "action": "merged",
+      "matched_existing_title": "Variational inference for microbiome survey data with application to global ocean data"
+    },
+    {
+      "key": "binsfeld2025systematic",
+      "action": "merged",
+      "matched_existing_title": "Systematic screen uncovers regulator contributions to chemical cues in Escherichia coli"
+    },
+    {
+      "key": "rauer2025new",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "borman2025orchestrating",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "adamov2025target",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "tran2025causal",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "droebner2008early",
+      "action": "excluded",
+      "reason": "Apparent author misattribution; user approved omission"
+    },
+    {
+      "key": "peschel2026permapprox",
+      "action": "merged",
+      "matched_existing_title": "permApprox: a general framework for accurate permutation p-value approximation"
+    },
+    {
+      "key": "vlasovets2026role",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "kolb2026smoothing",
+      "action": "merged",
+      "matched_existing_title": "Smoothing the edges: Smooth optimization for sparse regularization using hadamard overparametrization"
+    },
+    {
+      "key": "dietl2025tu1173",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "ostner2026score",
+      "action": "merged",
+      "matched_existing_title": "Score matching for differential abundance testing of compositional high-throughput sequencing data"
+    },
+    {
+      "key": "vlasovets2026sparse",
+      "action": "merged",
+      "matched_existing_title": "Sparse regression, classification, and microbial network estimation in QIIME2 with q2-classo and q2-gglasso"
+    },
+    {
+      "key": "badri2018normalization",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "gerhard2026iddf2026",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "szymczak2026battle",
+      "action": "added",
+      "matched_existing_title": null
+    },
+    {
+      "key": "amstalden2026human",
+      "action": "merged",
+      "matched_existing_title": "Human-targeted drugs extensively reshape regulatory networks controlling virulence and antibiotic resistance in Salmonella Typhimurium"
+    },
+    {
+      "key": "zannoni2026human",
+      "action": "merged",
+      "matched_existing_title": "Human-targeted drugs impact antibiotic sensitivity and growth of Campylobacter jejuni"
+    },
+    {
+      "key": "kurtz2015mu",
+      "action": "duplicate",
+      "canonical_key": "kurtz2015sparse"
+    },
+    {
+      "key": "buttner2021sccoda",
+      "action": "duplicate",
+      "canonical_key": "buettner2021sccoda"
+    },
+    {
+      "key": "buttnersccoda",
+      "action": "duplicate",
+      "canonical_key": "buettner2021sccoda"
+    },
+    {
+      "key": "heumos24single",
+      "action": "duplicate",
+      "canonical_key": "heumos2023best"
+    },
+    {
+      "key": "peschel2021netcomi",
+      "action": "duplicate",
+      "canonical_key": "peschel2020netcomi"
+    },
+    {
+      "key": "peschel10mu",
+      "action": "duplicate",
+      "canonical_key": "peschel2020netcomi"
+    },
+    {
+      "key": "tipton2018fungi__duplicate2",
+      "action": "duplicate",
+      "canonical_key": "tipton2018fungi"
+    },
+    {
+      "title": "Protein Content-Based Microbial Representations Improve Predictions of Antimicrobial Activity",
+      "action": "retained_existing"
+    },
+    {
+      "title": "Publisher Correction: Decoding chromatin states by proteomic profiling of nucleosome readers",
+      "action": "retained_existing"
+    }
+  ]
+}
