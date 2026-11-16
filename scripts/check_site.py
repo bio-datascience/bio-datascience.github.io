@@ -5,9 +5,9 @@ html=(root/'index.html').read_text()
 js=(root/'app.js').read_text()
 for path in re.findall(r'(?:src|href)="([^"]+)"',html):
     if path.startswith(('assets/','app.js','styles.css')):
-        assert (root/path).is_file(),path
+        assert (root/path.split('?',1)[0]).is_file(),path
 for path in re.findall(r'["\'](assets/[^"\']+)["\']',js):
-    assert (root/path).is_file(),path
+    assert (root/path.split('?',1)[0]).is_file(),path
 m=re.search(r'const researchTopics=(.*?);\n',js)
 topics=json.loads(m.group(1))
 keys=[k for topic in topics for k in topic[2]]

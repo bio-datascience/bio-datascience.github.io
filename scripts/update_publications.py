@@ -6,6 +6,7 @@ Only the Python standard library is required. --html-dir supports offline review
 of saved scholar-profile.html and scholar-profile-older.html pages.
 """
 import argparse
+import hashlib
 from datetime import datetime, timezone
 from difflib import SequenceMatcher
 from html import unescape
@@ -175,6 +176,9 @@ def main():
     # All fetching, parsing and validation finishes before modifying website files.
     (REFERENCES / 'publication-records.json').write_text(json.dumps(updated, ensure_ascii=False, indent=2) + '\n')
     source_path.write_text(revised)
+    index_path = ROOT / 'index.html'
+    version = hashlib.sha256(revised.encode()).hexdigest()[:12]
+    index_path.write_text(re.sub(r'app\.js(?:\?v=[a-z0-9]+)?"', 'app.js?v=' + version + '"', index_path.read_text()))
     (REFERENCES / 'publication-last-refresh.json').write_text(json.dumps({
         'checked_at': datetime.now(timezone.utc).isoformat(), **summary}, indent=2) + '\n')
     print('Updated local publication data. Run site checks and review before committing or publishing.')
