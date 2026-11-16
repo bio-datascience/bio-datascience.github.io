@@ -38,3 +38,18 @@
 #biods-full-site #student-topics .project-topic-group>p{margin-bottom:24px}
 
 #biods-full-site #site-home .hero>div:first-child{text-align:left}
+
+/* People: a featured group moment and a responsive photo gallery. */
+#biods-people-revised .people-feature{display:grid;grid-template-columns:minmax(0,640px) minmax(220px,360px);gap:32px;align-items:center;margin:24px 0 40px}
+#biods-people-revised .people-feature h2{margin-top:0}
+#biods-people-revised .group-photo{margin:0;min-width:0}
+#biods-people-revised .group-photo-open{display:block;width:100%;padding:0;min-height:0;border:0;border-radius:4px;overflow:hidden;cursor:zoom-in;background:var(--tile)}
+#biods-people-revised .group-photo-open img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:contain}
+#biods-people-revised .group-photo-open:focus-visible{outline:3px solid var(--ink);outline-offset:4px}
+#biods-people-revised .group-photo figcaption{font-size:13px;line-height:1.5;color:var(--sub);padding-top:10px}
+#biods-people-revised #group-life{margin:42px 0;padding:4px 0 32px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);scroll-margin-top:24px}
+#biods-people-revised .group-gallery{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;margin-top:24px}
+@media(max-width:1000px){#biods-people-revised .group-gallery{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:650px){#biods-people-revised .people-feature{grid-template-columns:1fr;gap:16px}#biods-people-revised .group-gallery{grid-template-columns:1fr}}
+
+#biods-people-revised .people-feature .group-photo-open img{aspect-ratio:auto}
