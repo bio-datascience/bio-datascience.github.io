@@ -19,3 +19,12 @@
 #biods-full-site #home-news::before{content:"";position:absolute;inset:-4px;z-index:-1;background:url('assets/biods-artwork.png') center/cover no-repeat;opacity:.22;pointer-events:none}
 #biods-full-site #home-news .work{padding:18px;background:light-dark(rgba(245,243,237,.9),rgba(23,29,27,.94));border-radius:3px}
 @media(max-width:650px){#biods-full-site #home-news{padding:16px}#biods-full-site #site-home .themes::before{background-size:auto 104%}}
+
+/* Desktop: balance the introduction and topics, and improve header readability. */
+@media(min-width:1100px){
+#biods-full-site #site-home .hero{grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:48px;max-width:1400px;margin-inline:auto}
+#biods-full-site #site-home .hero p{max-width:620px}
+#biods-full-site .sitenav{gap:8px}
+#biods-full-site .sitenav button{font-size:16px;padding:12px 10px}
+#biods-full-site .brand{font-size:28px}
+}
