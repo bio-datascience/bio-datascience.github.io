@@ -1,3 +1,6 @@
 __pycache__/
 .DS_Store
 node_modules/
+.Rhistory
+.Rproj.user/
+~$*

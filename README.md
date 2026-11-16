@@ -4,7 +4,7 @@ Static website for the Biomedical Statistics and Data Science group. No build or
 
 Preview: `python3 -m http.server 8000`. Validate: `node --check app.js` and `python3 scripts/check_site.py` (or `npm run check`).
 
-GitHub Pages serves the repository root from `master`. Existing proposal PDFs, images, legacy pages and license are retained.
+GitHub Pages serves the repository root from `master`. Current images, proposal PDFs, and the license are retained. Old People, Research, Proposals, and Funding URLs redirect to the corresponding sections of the current website.
 
 ## Previous site
 
@@ -21,3 +21,9 @@ Run `python3 scripts/update_publications.py --check` to preview a Google Scholar
 The updater needs only Python's standard library. It paginates the profile, preserves full author lists and verified paper links, retains existing records, and consolidates known duplicate citations. Exclusions and title aliases live in `docs/references/publication-settings.json`. Unexpectedly short, blocked or malformed responses stop the refresh before any files change. Scholar can restrict automated access; if blocked, keep the existing list and provide a new Scholar export for reconciliation.
 
 After updating, run the site checks, review the changes, then commit and publish when requested. The updater never commits or publishes.
+
+## Repository cleanup (16 November 2026)
+
+The pre-cleanup snapshot is preserved on branch `backup/before-cleanup-2026-11-16` (commit `d967e0990e3588a35292b88caedb29afa5380a25`). Obsolete template/test pages, the previous layout scripts/styles/fonts, unused legacy images, editor history, macOS metadata, and an Office lock file were removed. All proposal PDFs, current site assets, bibliography/figure provenance, and maintenance scripts remain available. Recover archived material from the backup branch when needed; do not force-push shared history.
+
+Current structure: `index.html`, `styles.css`, `app.js`, and `email-protection.js` power the website; `assets/` contains current figures, logos, and photos; `images/` contains referenced portraits; `msc_proposals/` contains proposal downloads; `scripts/` contains validation and publication-refresh tools; `docs/references/` retains source provenance.
