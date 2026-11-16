@@ -31,3 +31,8 @@
 #biods-full-site .sitenav button{font-size:16px;padding:12px 10px}
 #biods-full-site .brand{font-size:28px}
 }
+
+/* Separate Student Projects topic groups from their individual proposals. */
+#biods-full-site #student-topics .project-topic-group+.project-topic-group{margin-top:42px;padding-top:24px;border-top:2px solid var(--sub)}
+#biods-full-site #student-topics .project-topic-group>h2{margin-top:24px}
+#biods-full-site #student-topics .project-topic-group>p{margin-bottom:24px}
