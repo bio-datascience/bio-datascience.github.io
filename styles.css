@@ -11,3 +11,11 @@
 #biods-full-site #site-contact address{font-style:normal;font-size:16px;line-height:1.8;margin:18px 0;color:var(--sub)}
 
 #biods-full-site .email-reveal{font:inherit;font-size:13px;color:var(--ink);background:transparent;border:0;border-bottom:1px solid currentColor;padding:0 0 2px;cursor:pointer;text-align:left}#biods-full-site .email-reveal:focus-visible{outline:2px solid currentColor;outline-offset:4px}#biods-full-site .revealed-email{overflow-wrap:anywhere}
+
+/* Supplied BioDS artwork: a quiet backdrop for the research overview and News. */
+#biods-full-site #site-home .themes{position:relative;isolation:isolate;overflow:hidden}
+#biods-full-site #site-home .themes::before{content:"";position:absolute;inset:-4px;z-index:-1;background:url('assets/biods-artwork.png') center/auto 104% no-repeat;opacity:.42;pointer-events:none}
+#biods-full-site #home-news{position:relative;isolation:isolate;padding:24px;border-radius:4px;background:var(--tile);overflow:hidden}
+#biods-full-site #home-news::before{content:"";position:absolute;inset:-4px;z-index:-1;background:url('assets/biods-artwork.png') center/cover no-repeat;opacity:.22;pointer-events:none}
+#biods-full-site #home-news .work{padding:18px;background:light-dark(rgba(245,243,237,.9),rgba(23,29,27,.94));border-radius:3px}
+@media(max-width:650px){#biods-full-site #home-news{padding:16px}#biods-full-site #site-home .themes::before{background-size:auto 104%}}
