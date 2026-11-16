@@ -103,8 +103,10 @@ const topics=[
 ['iv','When can compositional effects be estimated reliably?','Study instrument strength and sample size in explicit causal simulations; measure bias and estimation error.','Investigate invalid instruments and misspecified transformations; assess diagnostics and interval coverage.'],
 ['qiime','How stable are microbiome predictions and networks?','Reproduce the public Atacama workflow; examine selection stability across splits.','Compare nested model selection and stability-based approaches using predictive error and simulation-based recovery.'],
 ['bias','How sensitive are conclusions to extraction-bias correction?','Compare corrected and uncorrected summaries on released mock-community data or simulations.','Propagate uncertainty in correction factors into downstream estimates; evaluate bias, coverage and robustness.']
+,['salmonella','Applied data analysis with StressRegNet','Explore published StressRegNet results using reproducible summaries, visualizations and statistical comparisons; assess how preprocessing choices affect conclusions.','Compare statistical models and validation strategies for StressRegNet data, quantify uncertainty and document the sensitivity of conclusions to analysis choices.']
 ];
 const projectGroups=[
+ ['Applied data analysis','Reproducible statistical analysis of StressRegNet data, with links to the published work and related project proposals.',[12]],
  ['Sparse estimation, optimization and network inference','Regularization, computational methods and the stability of selected models and networks.',[6,10]],
  ['Clustering, representation learning and latent-variable models','Learning useful representations and latent structure, with validation on held-out data.',[0,1,8]],
  ['Functional data analysis and uncertainty quantification','Statistical models for curves, spline methods and uncertainty in derived summaries.',[2,7]],
