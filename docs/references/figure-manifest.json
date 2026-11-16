@@ -1,0 +1,118 @@
+{
+  "kolb": {
+    "file": "/workspace/biods-restored-assets/kolb.png",
+    "credit": "Figure 1 \u00b7 original paper"
+  },
+  "trac": {
+    "file": "/workspace/biods-restored-assets/trac.png",
+    "credit": "Figure 1 \u00b7 original paper"
+  },
+  "netcomi": {
+    "file": "/workspace/scratch/d8199f433c52/website/images/NetCoMi_workflow_small.png",
+    "credit": "Workflow overview \u00b7 NetCoMi"
+  },
+  "ocean": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/ocean-candidate.png",
+    "credit": "Figure 1 \u00b7 original paper"
+  },
+  "bacsc": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/bacsc.png",
+    "credit": "Overview illustration \u00b7 authors\u2019 repository"
+  },
+  "perspective": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/perspective.png",
+    "credit": "Figure 1 \u00b7 author preprint"
+  },
+  "overoptimism": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/overoptimism.jpg",
+    "credit": "Figure 1 \u00b7 original paper"
+  },
+  "qiime": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/qiime.jpg",
+    "credit": "Figure 1 \u00b7 original paper"
+  },
+  "bias": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/bias.jpg",
+    "credit": "Figure 1 \u00b7 original paper"
+  },
+  "classo": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/classo.png",
+    "credit": "Workflow illustration \u00b7 software repository"
+  },
+  "binsfeld": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/binsfeld.jpg",
+    "credit": "Figure 1 \u00b7 original paper"
+  },
+  "logcontrast": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/logcontrast.jpg",
+    "credit": "Figure 1 \u00b7 original paper"
+  },
+  "campy": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/campy.jpg",
+    "credit": "Figure 1 \u00b7 original paper"
+  },
+  "mole": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/mole.jpg",
+    "credit": "Figure 1 \u00b7 original paper"
+  },
+  "reviewpending": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/reviewpending.jpg",
+    "credit": "Figure 1 \u00b7 original paper"
+  },
+  "iv": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/iv.jpg",
+    "credit": "Figure 1 \u00b7 original paper"
+  },
+  "spiec": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/spiec.jpg",
+    "credit": "Figure 1 \u00b7 original paper"
+  },
+  "robreg": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/robreg.png",
+    "credit": "Figure 1 \u00b7 preprint"
+  },
+  "dstress": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/dstress.png",
+    "credit": "Workflow illustration \u00b7 software repository"
+  },
+  "sccoda": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/sccoda.jpg",
+    "credit": "Figure 1 \u00b7 original paper"
+  },
+  "permapprox": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/permapprox.jpg",
+    "credit": "Figure 1 \u00b7 original paper"
+  },
+  "asteria": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/asteria.jpg",
+    "credit": "Graphical abstract \u00b7 original paper"
+  },
+  "biscot": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/biscot.png",
+    "credit": "Overview illustration \u00b7 authors\u2019 repository"
+  },
+  "salmonella": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/salmonella.jpg",
+    "credit": "Figure 1 \u00b7 original paper"
+  },
+  "gglasso": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/gglasso.png",
+    "credit": "Article snapshot \u00b7 JOSS software paper"
+  },
+  "tasc": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/tasc.jpg",
+    "credit": "Figure 1 \u00b7 original paper"
+  },
+  "growth": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/growth.png",
+    "credit": "Overview illustration \u00b7 authors\u2019 repository"
+  },
+  "cosmo": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/cosmo.png",
+    "credit": "Figure 1 \u00b7 preprint"
+  },
+  "nbfactor": {
+    "file": "/workspace/scratch/526eb2cc3577/figures/nbfactor.jpg",
+    "credit": "Figure 1 \u00b7 original paper"
+  }
+}

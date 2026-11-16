@@ -1,0 +1,60 @@
+{
+  "perspective": {
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "robreg": {
+    "pdf": "https://arxiv.org/pdf/1909.04990",
+    "page": 3,
+    "crop": [
+      28.0,
+      35.0,
+      584.0,
+      528.4464721679688
+    ]
+  },
+  "ocean": {
+    "pdf": "https://www.cs.columbia.edu/~blei/papers/MishraMcNicholFuhrmanBleiMuller2025.pdf",
+    "page": 2,
+    "crop": [
+      28.0,
+      35.0,
+      567.260009765625,
+      302.69189453125
+    ]
+  },
+  "qiime": {
+    "pdf": "https://arxiv.org/pdf/2604.15520",
+    "page": 2,
+    "crop": [
+      28.0,
+      35.0,
+      566.708984375,
+      353.0188293457031
+    ]
+  },
+  "permapprox": {
+    "pdf": "https://arxiv.org/pdf/2602.22975",
+    "page": 4,
+    "crop": [
+      28.0,
+      35.0,
+      584.0,
+      688.8499145507812
+    ]
+  },
+  "gglasso": {
+    "pdf": "https://joss.theoj.org/papers/10.21105/joss.03865.pdf",
+    "status": "no figure caption"
+  },
+  "cosmo": {
+    "pdf": "https://www.biorxiv.org/content/10.1101/2024.12.05.627006v1.full.pdf",
+    "page": 3,
+    "crop": [
+      28.0,
+      35.0,
+      567.2760009765625,
+      276.8775939941406
+    ]
+  }
+}

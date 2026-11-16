@@ -1,0 +1,157 @@
+[
+  {
+    "key": "bacsc",
+    "figure": true,
+    "source": "https://cdn.jsdelivr.net/gh/bio-datascience/BacSC@main/misc/concept_fig_full.png"
+  },
+  {
+    "key": "biscot",
+    "figure": true,
+    "source": "https://cdn.jsdelivr.net/gh/bio-datascience/biscot@main/assets/problem.png"
+  },
+  {
+    "key": "kolb",
+    "figure": false,
+    "source": null
+  },
+  {
+    "key": "growth",
+    "figure": true,
+    "source": "https://cdn.jsdelivr.net/gh/bio-datascience/DGrowthR@main/assets/dgrowthr_panel.png"
+  },
+  {
+    "key": "dstress",
+    "figure": false,
+    "source": null
+  },
+  {
+    "key": "classo",
+    "figure": true,
+    "source": "https://cdn.jsdelivr.net/gh/bio-datascience/c-lasso@master/figures/advanced/Beta-path.png"
+  },
+  {
+    "key": "trac",
+    "figure": false,
+    "source": null
+  },
+  {
+    "key": "sccoda",
+    "figure": true,
+    "source": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-27150-6/MediaObjects/41467_2021_27150_Fig1_HTML.png"
+  },
+  {
+    "key": "netcomi",
+    "figure": true,
+    "source": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b6f6/8293835/e271bdf111f5/bbaa290f1.jpg"
+  },
+  {
+    "key": "tasc",
+    "figure": true,
+    "source": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/12AFEC62-10F2-4A9B-900C8422E4B53D54/webimage-A09D2065-D257-435D-987C43E79D7FBDFD.png"
+  },
+  {
+    "key": "gglasso",
+    "figure": true,
+    "source": "https://joss.theoj.org/papers/10.21105/joss.03865.pdf"
+  },
+  {
+    "key": "qiime",
+    "figure": true,
+    "source": "https://arxiv.org/pdf/2604.15520"
+  },
+  {
+    "key": "cosmo",
+    "figure": false,
+    "source": null
+  },
+  {
+    "key": "ocean",
+    "figure": true,
+    "source": "https://www.cs.columbia.edu/~blei/papers/MishraMcNicholFuhrmanBleiMuller2025.pdf"
+  },
+  {
+    "key": "iv",
+    "figure": true,
+    "source": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-025-89204-9/MediaObjects/41598_2025_89204_Fig1_HTML.png"
+  },
+  {
+    "key": "bias",
+    "figure": true,
+    "source": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs40168-024-01998-4/MediaObjects/40168_2024_1998_Fig1_HTML.png"
+  },
+  {
+    "key": "salmonella",
+    "figure": true,
+    "source": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "key": "campy",
+    "figure": true,
+    "source": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "key": "perspective",
+    "figure": true,
+    "source": "https://arxiv.org/pdf/1805.06098"
+  },
+  {
+    "key": "logcontrast",
+    "figure": true,
+    "source": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12561-020-09283-2/MediaObjects/12561_2020_9283_Fig1_HTML.png"
+  },
+  {
+    "key": "robreg",
+    "figure": true,
+    "source": "https://arxiv.org/pdf/1909.04990"
+  },
+  {
+    "key": "spiec",
+    "figure": true,
+    "source": "https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=10.1371/journal.pcbi.1004226.g001"
+  },
+  {
+    "key": "huberforthcoming",
+    "figure": false,
+    "source": null
+  },
+  {
+    "key": "spatialforthcoming",
+    "figure": false,
+    "source": null
+  },
+  {
+    "key": "reviewpending",
+    "figure": true,
+    "source": "https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41576-023-00586-w/MediaObjects/41576_2023_586_Fig1_HTML.png"
+  },
+  {
+    "key": "nbfactor",
+    "figure": false,
+    "source": null
+  },
+  {
+    "key": "mole",
+    "figure": true,
+    "source": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-025-58804-4/MediaObjects/41467_2025_58804_Fig1_HTML.png"
+  },
+  {
+    "key": "binsfeld",
+    "figure": true,
+    "source": "https://journals.plos.org/plosbiology/article/figure/image?size=inline&id=10.1371/journal.pbio.3003260.g001"
+  },
+  {
+    "key": "overoptimism",
+    "figure": true,
+    "source": "https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=10.1371/journal.pcbi.1010820.g001"
+  },
+  {
+    "key": "asteria",
+    "figure": false,
+    "source": null
+  },
+  {
+    "key": "permapprox",
+    "figure": true,
+    "source": "https://arxiv.org/pdf/2602.22975"
+  }
+]

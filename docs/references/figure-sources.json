@@ -1,0 +1,135 @@
+{
+  "bacsc": {
+    "status": "existing or no published figure"
+  },
+  "biscot": {
+    "status": "existing or no published figure"
+  },
+  "kolb": {
+    "status": "existing or no published figure"
+  },
+  "growth": {
+    "status": "existing or no published figure"
+  },
+  "dstress": {
+    "status": "existing or no published figure"
+  },
+  "classo": {
+    "status": "existing or no published figure"
+  },
+  "trac": {
+    "status": "existing or no published figure"
+  },
+  "sccoda": {
+    "status": "downloaded",
+    "source": "https://www.nature.com/articles/s41467-021-27150-6?error=cookies_not_supported&code=edad002c-a2ca-4ab4-ab86-41af3e85bac4",
+    "image_source": "https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41592-024-02347-x/MediaObjects/41592_2024_2347_Fig1_HTML.png",
+    "figure": "Figure 1"
+  },
+  "netcomi": {
+    "status": "existing or no published figure"
+  },
+  "tasc": {
+    "status": "existing or no published figure"
+  },
+  "gglasso": {
+    "status": "no figure found",
+    "source": "https://joss.theoj.org/papers/10.21105/joss.03865"
+  },
+  "qiime": {
+    "status": "no figure found",
+    "source": "https://arxiv.org/abs/2604.15520"
+  },
+  "cosmo": {
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden",
+    "source": "https://doi.org/10.1002/sim.70534"
+  },
+  "ocean": {
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden",
+    "source": "https://doi.org/10.1093/ismeco/ycaf062"
+  },
+  "iv": {
+    "status": "downloaded",
+    "source": "https://www.nature.com/articles/s41598-025-89204-9?error=cookies_not_supported&code=5fd95a2b-60b7-4fd1-9048-450e64082f8e",
+    "image_source": "https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41598-023-41318-8/MediaObjects/41598_2023_41318_Fig1_HTML.png",
+    "figure": "Figure 1"
+  },
+  "bias": {
+    "status": "downloaded",
+    "source": "https://link.springer.com/article/10.1186/s40168-024-01998-4?error=cookies_not_supported&code=d2da8c3a-21c4-4ad0-a625-71ab15efb31c",
+    "image_source": "https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41598-023-46890-7/MediaObjects/41598_2023_46890_Fig1_HTML.png",
+    "figure": "Figure 1"
+  },
+  "salmonella": {
+    "status": "no figure found",
+    "source": "https://www.biorxiv.org/content/10.64898/2026.09.30.755304v1"
+  },
+  "campy": {
+    "status": "no figure found",
+    "source": "https://www.biorxiv.org/content/10.64898/2026.10.05.755907v1"
+  },
+  "perspective": {
+    "status": "no figure found",
+    "source": "https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-14/issue-1/Perspective-maximum-likelihood-type-estimation-via-proximal-decomposition/10.1214/19-EJS1662.full"
+  },
+  "logcontrast": {
+    "status": "downloaded",
+    "source": "https://link.springer.com/article/10.1007/s12561-020-09283-2?error=cookies_not_supported&code=80fd87a7-18f7-4d55-be04-8eb53061a093",
+    "image_source": "https://media.springernature.com/w215h120/springer-static/image/art%3A10.1007%2Fs12561-018-9219-2/MediaObjects/12561_2018_9219_Fig1_HTML.png",
+    "figure": "Figure 1"
+  },
+  "robreg": {
+    "status": "no figure found",
+    "source": "https://linkinghub.elsevier.com/retrieve/pii/S0167947321001493"
+  },
+  "spiec": {
+    "status": "downloaded",
+    "source": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004226",
+    "image_source": "https://corpus-prod.f505aadad1e46610c8f8563037eb3c4b.r2.cloudflarestorage.com/10.1371/journal.pcbi.1004226/1/pcbi.1004226.g001.PNG_L?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20261115T202157Z&X-Amz-SignedHeaders=host&X-Amz-Credential=8260ac00150bac2a2b0d76db61250012%2F20261115%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Expires=86400&X-Amz-Signature=80bab033bde7dbe972e22ce1c2d52019d6b178cd9d940f5aa2b5ab5385ed2919",
+    "figure": "Figure 1"
+  },
+  "huberforthcoming": {
+    "status": "existing or no published figure"
+  },
+  "spatialforthcoming": {
+    "status": "existing or no published figure"
+  },
+  "reviewpending": {
+    "status": "downloaded",
+    "source": "https://www.nature.com/articles/s41576-023-00586-w?error=cookies_not_supported&code=1e71cb07-374c-4486-aa4a-6e3efe5ffd72",
+    "image_source": "https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41576-023-00586-w/MediaObjects/41576_2023_586_Fig1_HTML.png",
+    "figure": "Figure 1"
+  },
+  "nbfactor": {
+    "status": "no figure found",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9325477/"
+  },
+  "mole": {
+    "status": "downloaded",
+    "source": "https://www.nature.com/articles/s41467-025-58804-4?error=cookies_not_supported&code=0b30a346-f5a2-4aa4-b600-1dd4b4de4313",
+    "image_source": "https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41586-023-06887-8/MediaObjects/41586_2023_6887_Fig1_HTML.png",
+    "figure": "Figure 1"
+  },
+  "binsfeld": {
+    "status": "downloaded",
+    "source": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003260",
+    "image_source": "https://corpus-prod.f505aadad1e46610c8f8563037eb3c4b.r2.cloudflarestorage.com/10.1371/journal.pbio.3003260/1/pbio.3003260.g001.PNG_L?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20261115T160118Z&X-Amz-SignedHeaders=host&X-Amz-Credential=8260ac00150bac2a2b0d76db61250012%2F20261115%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Expires=86400&X-Amz-Signature=50b5bcd3c26a3d2f69447f7e7317deff0eeaaa165c476bdad1953018fd107162",
+    "figure": "Figure 1"
+  },
+  "overoptimism": {
+    "status": "downloaded",
+    "source": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010820",
+    "image_source": "https://corpus-prod.f505aadad1e46610c8f8563037eb3c4b.r2.cloudflarestorage.com/10.1371/journal.pcbi.1010820/2/pcbi.1010820.g001.PNG_L?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20261115T202206Z&X-Amz-SignedHeaders=host&X-Amz-Credential=8260ac00150bac2a2b0d76db61250012%2F20261115%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Expires=86400&X-Amz-Signature=c38776c51b455abdd9aeac56131732dccd4792f17e6d4198c8790d526e991fae",
+    "figure": "Figure 1"
+  },
+  "asteria": {
+    "status": "no figure found",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11194111/"
+  },
+  "permapprox": {
+    "status": "no figure found",
+    "source": "https://arxiv.org/abs/2602.22975"
+  }
+}

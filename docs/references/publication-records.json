@@ -1,0 +1,460 @@
+[
+  {
+    "title": "Human-targeted drugs extensively reshape regulatory networks controlling virulence and antibiotic resistance in Salmonella Typhimurium",
+    "venue": "Preprint · 2026",
+    "year": 2026,
+    "authors": "",
+    "paper": "https://doi.org/10.64898/2026.09.30.755304",
+    "code": null,
+    "docs": null,
+    "source": "Existing verified paper record / publisher metadata"
+  },
+  {
+    "title": "Human-targeted drugs impact antibiotic sensitivity and growth of Campylobacter jejuni",
+    "venue": "Preprint · 2026",
+    "year": 2026,
+    "authors": "",
+    "paper": "https://doi.org/10.64898/2026.10.05.755907",
+    "code": null,
+    "docs": null,
+    "source": "Existing verified paper record / publisher metadata"
+  },
+  {
+    "title": "permApprox: a general framework for accurate permutation p-value approximation",
+    "venue": "Preprint · 2026",
+    "year": 2026,
+    "authors": "",
+    "paper": "https://arxiv.org/abs/2602.22975",
+    "code": "https://github.com/stefpeschel/permApprox",
+    "docs": null,
+    "source": "Existing verified paper record / publisher metadata"
+  },
+  {
+    "title": "Protein Content-Based Microbial Representations Improve Predictions of Antimicrobial Activity",
+    "year": 2026,
+    "authors": "Olayo-Alarcon, R. ; Pugno, D. ; Müller, C.L.",
+    "venue": "In: (34th International Conference on Artificial Neural Networks-ICANN-Annual, 9-12 September 2025, Kaunas, LITHUANIA). Gewerbestrasse 11, Cham, Ch-6330, Switzerland: Springer International Publishing Ag, 2026. 235-237 (Lect. Notes Comput. Sc. ; 16072) · 2026",
+    "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=77332&la=de",
+    "source": "Helmholtz Munich institutional publication record"
+  },
+  {
+    "title": "Score matching for differential abundance testing of compositional high-throughput sequencing data",
+    "venue": "Stat. Med. 45:e70534 (2026) · 2026",
+    "year": 2026,
+    "authors": "Ostner, J. ; Li, H. ; Müller, C.L.",
+    "paper": "https://doi.org/10.1002/sim.70534",
+    "code": "https://github.com/bio-datascience/cosmoDA",
+    "docs": null,
+    "source": "Existing verified paper record / publisher metadata",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=77508&la=de"
+  },
+  {
+    "title": "Smoothing the edges: Smooth optimization for sparse regularization using hadamard overparametrization",
+    "venue": "Mach. Learn. 115:73 (2026) · 2026",
+    "year": 2026,
+    "authors": "Kolb, C. ; Müller, C.L. ; Bischl, B. ; Rugamer, D.",
+    "paper": "https://doi.org/10.1007/s10994-026-06997-0",
+    "code": null,
+    "docs": null,
+    "source": "Existing verified paper record / publisher metadata",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=77561&la=de"
+  },
+  {
+    "title": "Sparse regression, classification, and microbial network estimation in QIIME2 with q2-classo and q2-gglasso",
+    "venue": "Preprint · 2026",
+    "year": 2026,
+    "authors": "",
+    "paper": "https://arxiv.org/abs/2604.15520",
+    "code": null,
+    "docs": null,
+    "source": "Existing verified paper record / publisher metadata"
+  },
+  {
+    "title": "biscot",
+    "venue": "Preprint & software · 2025",
+    "year": 2025,
+    "authors": "",
+    "paper": "https://doi.org/10.1101/2025.03.28.645895",
+    "code": "https://github.com/bio-datascience/biscot",
+    "docs": null,
+    "source": "Existing verified paper record / publisher metadata"
+  },
+  {
+    "title": "De-biasing microbiome sequencing data: Bacterial morphology-based correction of extraction bias and correlates of chimera formation",
+    "venue": "Microbiome 13:38 (2025) · 2025",
+    "year": 2025,
+    "authors": "Rauer, L. ; De Tomassi, A. ; Müller, C.L. ; Hülpüsch, C. ; Traidl-Hoffmann, C. ; Reiger, M. ; Neumann, A.U.",
+    "paper": "https://doi.org/10.1186/s40168-024-01998-4",
+    "code": null,
+    "docs": null,
+    "source": "Existing verified paper record / publisher metadata",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=73297&la=de"
+  },
+  {
+    "title": "DGrowthR",
+    "venue": "Preprint & software · 2025",
+    "year": 2025,
+    "authors": "",
+    "paper": "https://doi.org/10.1101/2025.03.25.645164",
+    "code": "https://github.com/bio-datascience/DGrowthR",
+    "docs": "https://bio-datascience.github.io/DGrowthR/",
+    "source": "Existing verified paper record / publisher metadata"
+  },
+  {
+    "title": "Instrumental variable estimation for compositional treatments",
+    "venue": "Sci. Rep. 15:5158 (2025) · 2025",
+    "year": 2025,
+    "authors": "Ailer, E. ; Müller, C.L. ; Kilbertus, N.",
+    "paper": "https://doi.org/10.1038/s41598-025-89204-9",
+    "code": null,
+    "docs": null,
+    "source": "Existing verified paper record / publisher metadata",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=73371&la=de"
+  },
+  {
+    "title": "Pre-trained molecular representations enable antimicrobial discovery",
+    "venue": "Nat. Commun. 16:3420 (2025) · 2025",
+    "year": 2025,
+    "authors": "Olayo-Alarcon, R. ; Amstalden, M.K. ; Zannoni, A. ; Bajramovic, M. ; Sharma, C.M. ; Brochado, A.R. ; Rezaei, M. ; Müller, C.L.",
+    "paper": "https://doi.org/10.1038/s41467-025-58804-4",
+    "code": null,
+    "docs": null,
+    "source": "Existing verified paper record / publisher metadata",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=74058&la=de"
+  },
+  {
+    "title": "Systematic screen uncovers regulator contributions to chemical cues in Escherichia coli",
+    "venue": "PLoS Biol. 23:e3003260 (2025) · 2025",
+    "year": 2025,
+    "authors": "Binsfeld, C. ; Olayo-Alarcon, R. ; Pérez Jiménez, L. ; Wartel, M. ; Stadler, M. ; Mateus, A. ; Müller, C.L.",
+    "paper": "https://doi.org/10.1371/journal.pbio.3003260",
+    "code": null,
+    "docs": null,
+    "source": "Existing verified paper record / publisher metadata",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=75224&la=de"
+  },
+  {
+    "title": "Variational inference for microbiome survey data with application to global ocean data",
+    "venue": "ISME Commun. 5:ycaf062 (2025) · 2025",
+    "year": 2025,
+    "authors": "Mishra, A. ; McNichol, J. ; Fuhrman, J. ; Blei, D. ; Müller, C.L.",
+    "paper": "https://doi.org/10.1093/ismeco/ycaf062",
+    "code": null,
+    "docs": null,
+    "source": "Existing verified paper record / publisher metadata",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=74494&la=de"
+  },
+  {
+    "title": "Associations of proteomics with hypertension and systolic blood pressure: KORA S4/F4/FF4 and KORA-Age1/Age2 Cohort Studies",
+    "year": 2024,
+    "authors": "Lin, J. ; Petrera, A. ; Hauck, S.M. ; Müller, C.L. ; Peters, A. ; Thorand, B.",
+    "venue": "Hypertension 81, 1156-1166 (2024) · 2024",
+    "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=70181&la=de",
+    "source": "Helmholtz Munich institutional publication record"
+  },
+  {
+    "title": "asteRIa enables robust interaction modeling between chromatin modifications and epigenetic readers",
+    "venue": "Nucleic Acids Res. 52, 6129-6144 (2024) · 2024",
+    "year": 2024,
+    "authors": "Stadler, M. ; Lukauskas, S. ; Bartke, T. ; Müller, C.L.",
+    "paper": "https://doi.org/10.1093/nar/gkae361",
+    "code": null,
+    "docs": null,
+    "source": "Existing verified paper record / publisher metadata",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=70683&la=de"
+  },
+  {
+    "title": "BacSC",
+    "venue": "Preprint & software · 2024",
+    "year": 2024,
+    "authors": "",
+    "paper": "https://doi.org/10.1101/2024.06.22.600071",
+    "code": "https://github.com/bio-datascience/BacSC",
+    "docs": null,
+    "source": "Existing verified paper record / publisher metadata"
+  },
+  {
+    "title": "Decoding chromatin states by proteomic profiling of nucleosome readers",
+    "year": 2024,
+    "authors": "Lukauskas, S. ; Tvardovskiy, A. ; Nguyen, N.V. ; Stadler, M. ; Faull, P. ; Ravnsborg, T. ; Özdemir Aygenli, B. ; Dornauer, S. ; Flynn, H. ; Lindeboom, R.G.H. ; Barth, T.K. ; Brockers, K. ; Hauck, S.M. ; Vermeulen, M. ; Snijders, A.P. ; Müller, C.L. ; DiMaggio, P.A. ; Jensen, O.N. ; Schneider, R. ; Bartke, T.",
+    "venue": "Nature 627, 671-679 (2024) · 2024",
+    "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=70179&la=de",
+    "source": "Helmholtz Munich institutional publication record"
+  },
+  {
+    "title": "Publisher Correction: Decoding chromatin states by proteomic profiling of nucleosome readers",
+    "year": 2024,
+    "authors": "Lukauskas, S. ; Tvardovskiy, A. ; Nguyen, N.V. ; Stadler, M. ; Faull, P. ; Ravnsborg, T. ; Özdemir Aygenli, B. ; Dornauer, S. ; Flynn, H. ; Lindeboom, R.G.H. ; Barth, T.K. ; Brockers, K. ; Hauck, S.M. ; Vermeulen, M. ; Snijders, A.P. ; Müller, C.L. ; DiMaggio, P.A. ; Jensen, O.N. ; Schneider, R. ; Bartke, T.",
+    "venue": "Nature 628:E6 (2024) · 2024",
+    "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=70504&la=de",
+    "source": "Helmholtz Munich institutional publication record"
+  },
+  {
+    "title": "Scaffold Matcher: A CMA-ES based algorithm for identifying hotspot aligned peptidomimetic scaffolds",
+    "year": 2024,
+    "authors": "Claussen, E.R. ; Renfrew, P.D. ; Müller, C.L. ; Drew, K.",
+    "venue": "Proteins 92, 343-355 (2024) · 2024",
+    "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=68703&la=de",
+    "source": "Helmholtz Munich institutional publication record"
+  },
+  {
+    "title": "Best practices for single-cell analysis across modalities",
+    "venue": "Nature Reviews Genetics · 2023",
+    "year": 2023,
+    "authors": "Lukas Heumos; Anna C. Schaar; Christopher Lance; Anastasia Litinetskaya; Felix Drost; Luke Zappia; Malte D. Lücken; Daniel C. Strobl; Juan Henao; Fabiola Curion; ; Hananeh Aliee; Meshal Ansari; Pau Badia-i-Mompel; Maren Büttner; Emma Dann; Daniel Dimitrov; Leander Dony; Amit Frishberg; Dongze He; Soroor Hediyeh-zadeh; Leon Hetzel; Ignacio L. Ibarra; Matthew G. Jones; Mohammad Lotfollahi; Laura D. Martens; Christian L. Müller; Mor Nitzan; Johannes Ostner; Giovanni Palla; Rob Patro; Zoe Piran; Ciro Ramírez-Suástegui; Julio Saez-Rodriguez; Hirak Sarkar; Benjamin Schubert; Lisa Sikkema; Avi Srivastava; Jovan Tanevski; Isaac Virshup; Philipp Weiler; Herbert B. Schiller; Fabian J. Theis",
+    "paper": "https://doi.org/10.1038/s41576-023-00586-w",
+    "code": null,
+    "docs": "https://www.sc-best-practices.org/",
+    "source": "Existing verified paper record / publisher metadata"
+  },
+  {
+    "title": "deepregression: A flexible neural network framework for semi-structured deep distributional regression",
+    "year": 2023,
+    "authors": "Rügamer, D. ; Kolb, C. ; Fritz, C. ; Pfisterer, F. ; Kopper, P. ; Bischl, B. ; Shen, R. ; Bukas, C. ; Barros De Andrade E Sousa, L. ; Thalmeier, D. ; Baumann, P.F.M. ; Kook, L. ; Klein, N. ; Müller, C.L.",
+    "venue": "J. Stat. Software 105, 1-31 (2023) · 2023",
+    "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=67379&la=de",
+    "source": "Helmholtz Munich institutional publication record"
+  },
+  {
+    "title": "Echo2Pheno: A deep-learning application to uncover echocardiographic phenotypes in conscious mice",
+    "year": 2023,
+    "authors": "Bukas, C. ; Galter, I. ; da Silva Buttkus, P. ; Fuchs, H. ; Maier, H. ; Gailus-Durner, V. ; Müller, C.L. ; Hrabě de Angelis, M. ; Piraud, M. ; Spielmann, N.",
+    "venue": "Mamm. Genome 34, 200-215 (2023) · 2023",
+    "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=67903&la=de",
+    "source": "Helmholtz Munich institutional publication record"
+  },
+  {
+    "title": "Factorized Structured Regression for Large-Scale Varying Coefficient Models",
+    "year": 2023,
+    "authors": "Rügamer, D. ; Bender, A. ; Wiegrebe, S. ; Racek, D. ; Bischl, B. ; Müller, C.L. ; Stachl, C.",
+    "venue": "In:. Gewerbestrasse 11, Cham, Ch-6330, Switzerland: Springer International Publishing Ag, 2023. 20-35 (Lect. Notes Comput. Sc. ; 13717 LNAI) · 2023",
+    "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=68594&la=de",
+    "source": "Helmholtz Munich institutional publication record"
+  },
+  {
+    "title": "Microbial fingerprints reveal interaction between museum objects, curators, and visitors",
+    "year": 2023,
+    "authors": "Simon, L.M. ; Flocco, C. ; Burkart, F. ; Methner, A. ; Henke, D. ; Rauer, L. ; Müller, C.L. ; Vogel, J. ; Quaisser, C. ; Overmann, J. ; Simon, S.",
+    "venue": "iScience 26:107578 (2023) · 2023",
+    "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=68356&la=de",
+    "source": "Helmholtz Munich institutional publication record"
+  },
+  {
+    "title": "Over-optimism in unsupervised microbiome analysis: Insights from network learning and clustering",
+    "venue": "PLoS Comput. Biol. 19:e1010820 (2023) · 2023",
+    "year": 2023,
+    "authors": "Ullmann, T. ; Peschel, S. ; Finger, P. ; Müller, C.L. ; Boulesteix, A.L.",
+    "paper": "https://doi.org/10.1371/journal.pcbi.1010820",
+    "code": null,
+    "docs": null,
+    "source": "Existing verified paper record / publisher metadata",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=67183&la=de"
+  },
+  {
+    "title": "Proteomic profiling of longitudinal changes in kidney function among middle-aged and older men and women: The KORA S4/F4/FF4 study",
+    "year": 2023,
+    "authors": "Lin, J. ; Nano, J. ; Petrera, A. ; Hauck, S.M. ; Zeller, T. ; Koenig, W. ; Müller, C.L. ; Peters, A. ; Thorand, B.",
+    "venue": "BMC Med. 21:245 (2023) · 2023",
+    "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=68431&la=de",
+    "source": "Helmholtz Munich institutional publication record"
+  },
+  {
+    "title": "STENCIL-NET for equation-free forecasting from data",
+    "year": 2023,
+    "authors": "Maddu, S. ; Sturm, D. ; Cheeseman, B.L. ; Müller, C.L. ; Sbalzarini, I.F.",
+    "venue": "Sci. Rep. 13:12787 (2023) · 2023",
+    "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=68024&la=de",
+    "source": "Helmholtz Munich institutional publication record"
+  },
+  {
+    "title": "Using Probability Density Functions to Evaluate Models (PDFEM, v1.0) to compare a biogeochemical model with satellite-derived chlorophyll",
+    "year": 2023,
+    "authors": "Jonsson, B.F. ; Follett, C.L. ; Bien, J. ; Dutkiewicz, S. ; Hyun, S. ; Kulk, G. ; Forget, G.L. ; Müller, C.L. ; Racault, M.F. ; Hill, C.N. ; Jackson, T. ; Sathyendranath, S.",
+    "venue": "Geosci. Model. Dev. 16, 4639-4657 (2023) · 2023",
+    "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=69390&la=de",
+    "source": "Helmholtz Munich institutional publication record"
+  },
+  {
+    "title": "A randomization-based causal inference framework for uncovering environmental exposure effects on human gut microbiota",
+    "year": 2022,
+    "authors": "Sommer, A. ; Peters, A. ; Rommel, M. ; Cyrys, J. ; Grallert, H. ; Haller, D. ; Müller, C.L. ; Bind, M.C.",
+    "venue": "PLoS Comput. Biol. 18:e1010044 (2022) · 2022",
+    "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=65016&la=de",
+    "source": "Helmholtz Munich institutional publication record"
+  },
+  {
+    "title": "Inverse Dirichlet weighting enables reliable training of physics informed neural networks",
+    "venue": "Mach. Learn.: Sci. Technol. 3:015026 (2022) · 2022",
+    "year": 2022,
+    "authors": "Maddu, S. ; Sturm, D. ; Müller, C.L. ; Sbalzarini, I.F.",
+    "paper": "https://doi.org/10.1088/2632-2153/ac3712",
+    "code": null,
+    "docs": null,
+    "source": "Existing verified paper record / publisher metadata",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=64474&la=de"
+  },
+  {
+    "title": "Negative binomial factor regression with application to microbiome data analysis",
+    "venue": "Stat. Med. 41, 2786-2803 (2022) · 2022",
+    "year": 2022,
+    "authors": "Mishra, A.K. ; Müller, C.L.",
+    "paper": "https://doi.org/10.1002/sim.9384",
+    "code": null,
+    "docs": null,
+    "source": "Existing verified paper record / publisher metadata",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=64867&la=de"
+  },
+  {
+    "title": "Objective hearing threshold identification from auditory brainstem response measurements using supervised and self-supervised approaches",
+    "year": 2022,
+    "authors": "Thalmeier, D. ; Miller, G. ; Schneltzer, E. ; Hurt, A. ; Hrabě de Angelis, M. ; Becker, L. ; Müller, C.L. ; Maier, H.",
+    "venue": "BMC Neurosci. 23:81 (2022) · 2022",
+    "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=67095&la=de",
+    "source": "Helmholtz Munich institutional publication record"
+  },
+  {
+    "title": "Ocean mover's distance: Using optimal transport for analysing oceanographic data",
+    "venue": "Proc. R. Soc. London A 478:20210875 (2022) · 2022",
+    "year": 2022,
+    "authors": "Hyun, S. ; Mishra, A. ; Follett, C.L. ; Jönsson, B. ; Kulk, G. ; Forget, G. ; Racault, M.F. ; Jackson, T. ; Dutkiewicz, S. ; Müller, C.L. ; Bien, J.",
+    "paper": "https://doi.org/10.1098/rspa.2021.0875",
+    "code": "https://github.com/sangwon-hyun/omd",
+    "docs": null,
+    "source": "Existing verified paper record / publisher metadata",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=65517&la=de"
+  },
+  {
+    "title": "Robust regression with compositional covariates",
+    "venue": "Computational Statistics & Data Analysis · 2022",
+    "year": 2022,
+    "authors": "Aditya Mishra; Christian L. Müller",
+    "paper": "https://doi.org/10.1016/j.csda.2021.107315",
+    "code": null,
+    "docs": null,
+    "source": "Existing verified paper record / publisher metadata"
+  },
+  {
+    "title": "Stability selection enables robust learning of differential equations from limited noisy data",
+    "venue": "Proceedings of the Royal Society A · 2022",
+    "year": 2022,
+    "authors": "Suryanarayana Maddu; Bevan L. Cheeseman; Ivo F. Sbalzarini; Christian L. Müller",
+    "paper": "https://doi.org/10.1098/rspa.2021.0916",
+    "code": null,
+    "docs": null,
+    "source": "Existing verified paper record / publisher metadata"
+  },
+  {
+    "title": "Topology adaptive graph estimation in high dimensions",
+    "year": 2022,
+    "authors": "Lederer, J. ; Müller, C.L.",
+    "venue": "Mathematics 10:1244 (2022) · 2022",
+    "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=64911&la=de",
+    "source": "Helmholtz Munich institutional publication record"
+  },
+  {
+    "title": "c-lasso",
+    "venue": "JOSS · 2021",
+    "year": 2021,
+    "authors": "",
+    "paper": "https://doi.org/10.21105/joss.02844",
+    "code": "https://github.com/bio-datascience/c-lasso",
+    "docs": "https://c-lasso.readthedocs.io/",
+    "source": "Existing verified paper record / publisher metadata"
+  },
+  {
+    "title": "Fast computation of latent correlations",
+    "year": 2021,
+    "authors": "Yoon, G. ; Müller, C.L. ; Gaynanova, I.",
+    "venue": "J. Comput. Graph. Stat. 30, 1249-1256 (2021) · 2021",
+    "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=61722&la=de",
+    "source": "Helmholtz Munich institutional publication record"
+  },
+  {
+    "title": "GGLasso - a Python package for General Graphical Lasso computation",
+    "venue": "JOSS · 2021",
+    "year": 2021,
+    "authors": "Fabian Schaipp; Oleg Vlasovets; Christian Müller",
+    "paper": "https://doi.org/10.21105/joss.03865",
+    "code": "https://github.com/bio-datascience/GGLasso",
+    "docs": "https://gglasso.readthedocs.io/en/latest/",
+    "source": "Existing verified paper record / publisher metadata"
+  },
+  {
+    "title": "Learning computable models from data",
+    "year": 2021,
+    "authors": "Maddu, S. ; Sturm, D. ; Cheeseman, B.L. ; Müller, C.L.",
+    "venue": "In: (14th World Congress in Computational Mechanics (WCCM), ECCOMAS Congress 2020, 11-15 January 2021, Barcelona). 2021. 1-6 ( ; 1700) · 2021",
+    "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=63937&la=de",
+    "source": "Helmholtz Munich institutional publication record"
+  },
+  {
+    "title": "Learning physically consistent differential equation models from data using group sparsity",
+    "year": 2021,
+    "authors": "Maddu, S. ; Cheeseman, B.L. ; Müller, C.L. ; Sbalzarini, I.F.",
+    "venue": "Phys. Rev. E 103:042310 (2021) · 2021",
+    "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=61896&la=de",
+    "source": "Helmholtz Munich institutional publication record"
+  },
+  {
+    "title": "NetCoMi",
+    "venue": "Briefings in Bioinformatics · 2021",
+    "year": 2021,
+    "authors": "",
+    "paper": "https://doi.org/10.1093/bib/bbaa290",
+    "code": "https://github.com/stefpeschel/NetCoMi",
+    "docs": null,
+    "source": "Existing verified paper record / publisher metadata"
+  },
+  {
+    "title": "NetCoMi: Network construction and comparison for microbiome data in R",
+    "year": 2021,
+    "authors": "Peschel, S. ; Müller, C.L. ; von Mutius, E. ; Boulesteix, A.L. ; Depner, M.",
+    "venue": "Brief. Bioinform. 22, DOI: 10.1093/bib/bbaa290 (2021) · 2021",
+    "paper": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=60782&la=de",
+    "source": "Helmholtz Munich institutional publication record"
+  },
+  {
+    "title": "Regression models for compositional data: General log-contrast formulations, proximal optimization, and microbiome data applications",
+    "venue": "Stat. Biosci. 13, 217–242 (2021) · 2021",
+    "year": 2021,
+    "authors": "Combettes, P.L. ; Müller, C.L.",
+    "paper": "https://doi.org/10.1007/s12561-020-09283-2",
+    "code": null,
+    "docs": null,
+    "source": "Existing verified paper record / publisher metadata",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=59570&la=de"
+  },
+  {
+    "title": "scCODA is a Bayesian model for compositional single-cell data analysis",
+    "venue": "Nat. Commun. 12:6876 (2021) · 2021",
+    "year": 2021,
+    "authors": "Büttner, M. ; Ostner, J. ; Müller, C.L. ; Theis, F.J. ; Schubert, B.",
+    "paper": "https://www.nature.com/articles/s41467-021-27150-6",
+    "code": null,
+    "docs": "https://sccoda.readthedocs.io/",
+    "source": "Existing verified paper record / publisher metadata",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=63628&la=de"
+  },
+  {
+    "title": "tascCODA: Bayesian tree-aggregated analysis of compositional amplicon and single-cell data",
+    "venue": "Front. Genet. 12:766405 (2021) · 2021",
+    "year": 2021,
+    "authors": "Ostner, J. ; Carcy, S. ; Müller, C.L.",
+    "paper": "https://doi.org/10.3389/fgene.2021.766405",
+    "code": "https://github.com/bio-datascience/tascCODA",
+    "docs": null,
+    "source": "Existing verified paper record / publisher metadata",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=63516&la=de"
+  },
+  {
+    "title": "Tree-aggregated predictive modeling of microbiome data",
+    "venue": "Sci. Rep. 11:14505 (2021) · 2021",
+    "year": 2021,
+    "authors": "Bien, J. ; Yan, X. ; Simpson, L. ; Müller, C.L.",
+    "paper": "https://doi.org/10.1038/s41598-021-93645-3",
+    "code": "https://github.com/jacobbien/trac",
+    "docs": "https://jacobbien.github.io/trac/",
+    "source": "Existing verified paper record / publisher metadata",
+    "institutional_record": "https://push-zb.helmholtz-munich.de/frontdoor.php?source_opus=62570&la=de"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "key": "bacsc",
+    "title": "BacSC",
+    "venue": "Preprint & software · 2024",
+    "desc": "A data-adaptive computational workflow for bacterial single-cell RNA-sequencing analysis.",
+    "paper": "https://doi.org/10.1101/2024.06.22.600071",
+    "code": "https://github.com/bio-datascience/BacSC",
+    "image": "assets/4d4a3559c53784bb.jpg",
+    "credit": "Overview illustration · authors’ repository",
+    "figureSource": "https://cdn.jsdelivr.net/gh/bio-datascience/BacSC@main/misc/concept_fig_full.png"
+  },
+  {
+    "key": "biscot",
+    "title": "biscot",
+    "venue": "Preprint & software · 2025",
+    "desc": "Optimal transport for multimodal bacterial single-cell analysis, integrating flow cytometry and transcriptomic measurements.",
+    "paper": "https://doi.org/10.1101/2025.03.28.645895",
+    "code": "https://github.com/bio-datascience/biscot",
+    "image": "assets/33ee1e45a3b34d54.jpg",
+    "credit": "Overview illustration · authors’ repository",
+    "figureSource": "https://cdn.jsdelivr.net/gh/bio-datascience/biscot@main/assets/problem.png"
+  },
+  {
+    "key": "kolb",
+    "title": "Smoothing the Edges",
+    "venue": "Machine Learning · 2026",
+    "desc": "Smooth Hadamard parametrizations give exact reformulations of sparsity-inducing optimization problems.",
+    "paper": "https://doi.org/10.1007/s10994-026-06997-0",
+    "image": "assets/6a5ff968027d6bf7.jpg",
+    "credit": "Figure 1 · original paper",
+    "next": "Initialization and stochastic optimization for sparse learning."
+  },
+  {
+    "key": "growth",
+    "title": "DGrowthR",
+    "venue": "Preprint & software · 2025",
+    "desc": "Gaussian-process modeling and statistical comparisons for complex growth curves.",
+    "paper": "https://doi.org/10.1101/2025.03.25.645164",
+    "code": "https://github.com/bio-datascience/DGrowthR",
+    "docs": "https://bio-datascience.github.io/DGrowthR/",
+    "image": "assets/2c82171647cb5aff.jpg",
+    "credit": "Overview illustration · authors’ repository",
+    "next": "Uncertainty calibration for estimated curve summaries.",
+    "figureSource": "https://cdn.jsdelivr.net/gh/bio-datascience/DGrowthR@main/assets/dgrowthr_panel.png"
+  },
+  {
+    "key": "dstress",
+    "title": "DStressR",
+    "venue": "Software · no standalone paper yet",
+    "desc": "Differential reporter-response modeling that accounts for growth, technical variation and uncertainty.",
+    "code": "https://github.com/muellsen/DStressR",
+    "docs": "https://muellsen.github.io/DStressR/articles/DStressR.html",
+    "image": "assets/dace575f743a1df6.jpg",
+    "credit": "Workflow illustration · software repository",
+    "next": "Statistical calibration on public or simulated assay summaries."
+  },
+  {
+    "key": "classo",
+    "title": "c-lasso",
+    "venue": "JOSS · 2021",
+    "desc": "Sparse and robust regression and classification with linear equality constraints.",
+    "paper": "https://doi.org/10.21105/joss.02844",
+    "code": "https://github.com/bio-datascience/c-lasso",
+    "docs": "https://c-lasso.readthedocs.io/",
+    "image": "assets/f82a2d5311c9cb15.jpg",
+    "credit": "Workflow illustration · software repository",
+    "next": "Model-selection stability under different linear constraints.",
+    "figureSource": "https://cdn.jsdelivr.net/gh/bio-datascience/c-lasso@master/figures/advanced/Beta-path.png"
+  },
+  {
+    "key": "trac",
+    "title": "trac",
+    "venue": "Scientific Reports · 2021",
+    "desc": "Data-adaptive taxonomic aggregation for predictive modeling of compositional microbiome data.",
+    "paper": "https://doi.org/10.1038/s41598-021-93645-3",
+    "code": "https://github.com/jacobbien/trac",
+    "docs": "https://jacobbien.github.io/trac/",
+    "image": "assets/4c5a0df15a968c1c.jpg",
+    "credit": "Figure 1 · original paper",
+    "next": "Transferability of learned aggregation levels across cohorts."
+  },
+  {
+    "key": "sccoda",
+    "title": "scCODA is a Bayesian model for compositional single-cell data analysis",
+    "venue": "Nature Communications · 2021",
+    "desc": "A joint Bayesian approach to changes in cell-type composition.",
+    "paper": "https://www.nature.com/articles/s41467-021-27150-6",
+    "docs": "https://sccoda.readthedocs.io/",
+    "image": "assets/033e6c85fa0c3dd5.jpg",
+    "credit": "Figure 1 · original paper",
+    "figureSource": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-27150-6/MediaObjects/41467_2021_27150_Fig1_HTML.png"
+  },
+  {
+    "key": "netcomi",
+    "title": "NetCoMi",
+    "venue": "Briefings in Bioinformatics · 2021",
+    "desc": "Reproducible construction, analysis and comparison of microbiome association networks.",
+    "paper": "https://doi.org/10.1093/bib/bbaa290",
+    "code": "https://github.com/stefpeschel/NetCoMi",
+    "image": "assets/b09c4b750423e9e5.jpg",
+    "credit": "Workflow overview · NetCoMi",
+    "figureSource": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b6f6/8293835/e271bdf111f5/bbaa290f1.jpg"
+  },
+  {
+    "key": "tasc",
+    "title": "tascCODA: Bayesian Tree-Aggregated Analysis of Compositional Amplicon and Single-Cell Data",
+    "venue": "Frontiers in Genetics · 2021",
+    "desc": "Tree-aware analysis of compositional changes across related features.",
+    "paper": "https://doi.org/10.3389/fgene.2021.766405",
+    "code": "https://github.com/bio-datascience/tascCODA",
+    "image": "assets/e53373b8c7c5bf14.jpg",
+    "credit": "Figure 1 · original paper",
+    "figureSource": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/12AFEC62-10F2-4A9B-900C8422E4B53D54/webimage-A09D2065-D257-435D-987C43E79D7FBDFD.png"
+  },
+  {
+    "key": "gglasso",
+    "title": "GGLasso - a Python package for General Graphical Lasso computation",
+    "venue": "JOSS · 2021",
+    "desc": "Single and multiple graphical-lasso models, including latent variables and nonconforming feature sets.",
+    "paper": "https://doi.org/10.21105/joss.03865",
+    "code": "https://github.com/bio-datascience/GGLasso",
+    "docs": "https://gglasso.readthedocs.io/en/latest/",
+    "image": "assets/aac955d86f69dba9.jpg",
+    "credit": "Article snapshot · JOSS software paper",
+    "figureSource": "https://joss.theoj.org/papers/10.21105/joss.03865.pdf"
+  },
+  {
+    "key": "qiime",
+    "title": "Sparse regression, classification, and microbial network estimation in QIIME2 with q2-classo and q2-gglasso",
+    "venue": "Preprint · 2026",
+    "desc": "Compositional prediction and graphical modeling inside QIIME 2.",
+    "paper": "https://arxiv.org/abs/2604.15520",
+    "image": "assets/d8a3afcbbf751b11.jpg",
+    "credit": "Figure 1 · original paper",
+    "figureSource": "https://arxiv.org/pdf/2604.15520"
+  },
+  {
+    "key": "cosmo",
+    "title": "Score Matching for Differential Abundance Testing of Compositional High-Throughput Sequencing Data",
+    "venue": "Statistics in Medicine · 2026",
+    "desc": "cosmoDA links covariate-aware compositional models and differential-abundance inference.",
+    "paper": "https://doi.org/10.1002/sim.70534",
+    "code": "https://github.com/bio-datascience/cosmoDA",
+    "image": "assets/14d738f8fb048df0.jpg",
+    "credit": "Figure 1 · preprint"
+  },
+  {
+    "key": "ocean",
+    "title": "Variational inference for microbiome survey data with application to global ocean data",
+    "venue": "ISME Communications · 2025",
+    "desc": "VI-MIDAS models covariate effects and latent structure in microbiome survey data.",
+    "paper": "https://doi.org/10.1093/ismeco/ycaf062",
+    "image": "assets/3816ce0542e22dc9.jpg",
+    "credit": "Figure 1 · original paper",
+    "figureSource": "https://www.cs.columbia.edu/~blei/papers/MishraMcNicholFuhrmanBleiMuller2025.pdf"
+  },
+  {
+    "key": "iv",
+    "title": "Instrumental variable estimation for compositional treatments",
+    "venue": "Scientific Reports · 2025",
+    "desc": "A causal framework for estimating effects when treatments are compositions.",
+    "paper": "https://doi.org/10.1038/s41598-025-89204-9",
+    "image": "assets/d9efbc8dda235ad2.jpg",
+    "credit": "Figure 1 · original paper",
+    "figureSource": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-025-89204-9/MediaObjects/41598_2025_89204_Fig1_HTML.png"
+  },
+  {
+    "key": "bias",
+    "title": "De-biasing microbiome sequencing data: bacterial morphology-based correction of extraction bias and correlates of chimera formation",
+    "venue": "Microbiome · 2025",
+    "desc": "Statistical assessment of systematic bias in microbiome measurements.",
+    "paper": "https://doi.org/10.1186/s40168-024-01998-4",
+    "image": "assets/e53f0c5da2ded52c.jpg",
+    "credit": "Figure 1 · original paper",
+    "figureSource": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs40168-024-01998-4/MediaObjects/40168_2024_1998_Fig1_HTML.png"
+  },
+  {
+    "key": "salmonella",
+    "title": "Human-targeted drugs extensively reshape regulatory networks controlling virulence and antibiotic resistance in Salmonella Typhimurium",
+    "venue": "Preprint · 2026",
+    "desc": "StressRegNet screening dataset and analysis.",
+    "paper": "https://doi.org/10.64898/2026.09.30.755304",
+    "image": "assets/b05f66710a961eb1.jpg",
+    "credit": "Figure 1 · original paper",
+    "figureSource": "assets/ef1955ae757c8b96.gif"
+  },
+  {
+    "key": "campy",
+    "title": "Human-targeted drugs impact antibiotic sensitivity and growth of Campylobacter jejuni",
+    "venue": "Preprint · 2026",
+    "desc": "StressRegNet screening dataset and analysis.",
+    "paper": "https://doi.org/10.64898/2026.10.05.755907",
+    "image": "assets/18ffba751f2dab18.jpg",
+    "credit": "Figure 1 · original paper",
+    "figureSource": "assets/ef1955ae757c8b96.gif"
+  },
+  {
+    "key": "perspective",
+    "title": "Perspective maximum likelihood-type estimation via proximal decomposition",
+    "venue": "Electronic Journal of Statistics · 2020",
+    "desc": "A general framework for joint scale and regression estimation using perspective functions.",
+    "paper": "https://doi.org/10.1214/19-EJS1662",
+    "image": "assets/5c8ba66704d411d5.jpg",
+    "credit": "Figure 1 · author preprint",
+    "figureSource": "https://arxiv.org/pdf/1805.06098"
+  },
+  {
+    "key": "logcontrast",
+    "title": "Regression Models for Compositional Data: General Log-Contrast Formulations, Proximal Optimization, and Microbiome Data Applications",
+    "venue": "Statistics in Biosciences · 2021",
+    "desc": "General log-contrast models linking statistical estimation and proximal optimization.",
+    "paper": "https://doi.org/10.1007/s12561-020-09283-2",
+    "image": "assets/9375743b86ab368c.jpg",
+    "credit": "Figure 1 · original paper",
+    "figureSource": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12561-020-09283-2/MediaObjects/12561_2020_9283_Fig1_HTML.png"
+  },
+  {
+    "key": "robreg",
+    "title": "Robust regression with compositional covariates",
+    "venue": "Computational Statistics & Data Analysis · 2022",
+    "desc": "Sparse log-contrast regression with simultaneous outlier detection.",
+    "paper": "https://doi.org/10.1016/j.csda.2021.107315",
+    "image": "assets/a6d3254cbe46796a.jpg",
+    "credit": "Figure 1 · preprint",
+    "figureSource": "https://arxiv.org/pdf/1909.04990"
+  },
+  {
+    "key": "spiec",
+    "title": "Sparse and Compositionally Robust Inference of Microbial Ecological Networks",
+    "venue": "PLoS Computational Biology · 2015",
+    "desc": "Sparse network inference for compositional microbial abundance data.",
+    "paper": "https://doi.org/10.1371/journal.pcbi.1004226",
+    "code": "https://github.com/zdk123/SpiecEasi",
+    "image": "assets/19d1be5ee0262bbc.jpg",
+    "credit": "Figure 1 · original paper",
+    "figureSource": "https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=10.1371/journal.pcbi.1004226.g001"
+  },
+  {
+    "key": "huberforthcoming",
+    "title": "Coordinate descent for Huber regression",
+    "venue": "Forthcoming · manuscript in preparation",
+    "desc": "Forthcoming work on coordinate descent for robust regression. Working title; preprint link to follow."
+  },
+  {
+    "key": "spatialforthcoming",
+    "title": "Spatial point processes for host–microbe interactions",
+    "venue": "Forthcoming · workshop manuscript",
+    "desc": "Leander Schwarzmeier and Christian L. Müller. Working title; publication details and link to follow."
+  },
+  {
+    "key": "reviewpending",
+    "title": "Best practices for single-cell analysis across modalities",
+    "venue": "Nature Reviews Genetics · 2023",
+    "desc": "Heumos, Schaar and colleagues, with the Single-cell Best Practices Consortium. Best-practice workflows for unimodal and multimodal single-cell analysis.",
+    "paper": "https://doi.org/10.1038/s41576-023-00586-w",
+    "docs": "https://www.sc-best-practices.org/",
+    "image": "assets/215240e95e6ef2d7.jpg",
+    "credit": "Figure 1 · original paper",
+    "figureSource": "https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41576-023-00586-w/MediaObjects/41576_2023_586_Fig1_HTML.png"
+  },
+  {
+    "key": "nbfactor",
+    "title": "Negative binomial factor regression with application to microbiome data analysis",
+    "venue": "Statistics in Medicine · 2022",
+    "desc": "Count-data regression with latent factors for microbiome measurements.",
+    "paper": "https://doi.org/10.1002/sim.9384",
+    "image": "assets/14fcc7c343e36cfb.jpg",
+    "credit": "Figure 1 · original paper"
+  },
+  {
+    "key": "mole",
+    "title": "Pre-trained molecular representations enable antimicrobial discovery",
+    "venue": "Nature Communications · 2025",
+    "desc": "Statistical prediction using learned molecular representations.",
+    "paper": "https://doi.org/10.1038/s41467-025-58804-4",
+    "image": "assets/22813e9a80144930.jpg",
+    "credit": "Figure 1 · original paper",
+    "figureSource": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-025-58804-4/MediaObjects/41467_2025_58804_Fig1_HTML.png"
+  },
+  {
+    "key": "binsfeld",
+    "title": "Systematic screen uncovers regulator contributions to chemical cues in Escherichia coli",
+    "venue": "PLoS Biology · 2025",
+    "desc": "Statistical analysis of chemical-response reporter screens.",
+    "paper": "https://doi.org/10.1371/journal.pbio.3003260",
+    "image": "assets/168c9e8f39c62125.jpg",
+    "credit": "Figure 1 · original paper",
+    "figureSource": "https://journals.plos.org/plosbiology/article/figure/image?size=inline&id=10.1371/journal.pbio.3003260.g001"
+  },
+  {
+    "key": "overoptimism",
+    "title": "Over-optimism in unsupervised microbiome analysis: Insights from network learning and clustering",
+    "venue": "PLoS Computational Biology · 2023",
+    "desc": "Assessing selection effects in network learning and clustering.",
+    "paper": "https://doi.org/10.1371/journal.pcbi.1010820",
+    "image": "assets/daf32082d59b0e88.jpg",
+    "credit": "Figure 1 · original paper",
+    "figureSource": "https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=10.1371/journal.pcbi.1010820.g001"
+  },
+  {
+    "key": "asteria",
+    "title": "asteRIa enables robust interaction modeling between chromatin modifications and epigenetic readers",
+    "venue": "Nucleic Acids Research · 2024",
+    "desc": "Statistical interaction models for high-throughput epigenetic measurements.",
+    "paper": "https://doi.org/10.1093/nar/gkae361",
+    "image": "assets/178dddec498a6249.jpg",
+    "credit": "Graphical abstract · original paper"
+  },
+  {
+    "key": "permapprox",
+    "title": "permApprox: a general framework for accurate permutation p-value approximation",
+    "venue": "Preprint · 2026",
+    "desc": "Stefanie Peschel, Anne-Laure Boulesteix, Erika von Mutius and Christian L. Müller. Support-constrained tail modeling for accurate, zero-free permutation p-value approximation.",
+    "paper": "https://arxiv.org/abs/2602.22975",
+    "code": "https://github.com/stefpeschel/permApprox",
+    "image": "assets/f72db05e1d901fe9.jpg",
+    "credit": "Figure 1 · original paper",
+    "figureSource": "https://arxiv.org/pdf/2602.22975"
+  },
+  {
+    "key": "omd",
+    "title": "Ocean mover’s distance: using optimal transport for analysing oceanographic data",
+    "venue": "Proceedings of the Royal Society A · 2022",
+    "desc": "Optimal transport compares oceanographic distributions through spatial displacement as well as differences in magnitude.",
+    "paper": "https://doi.org/10.1098/rspa.2021.0875",
+    "code": "https://github.com/sangwon-hyun/omd",
+    "image": "assets/4f4360432c68d8b0.jpg",
+    "credit": "Figure 1 · published paper (cropped and resized)",
+    "figureSource": "https://plymsea.ac.uk/id/eprint/9921/1/Hyun%20S%20et%20al%20%282022%29.pdf"
+  },
+  {
+    "key": "stabilitypde",
+    "title": "Stability selection enables robust learning of differential equations from limited noisy data",
+    "venue": "Proceedings of the Royal Society A · 2022",
+    "desc": "Stability-based sparse model selection identifies differential equations from noisy spatiotemporal measurements.",
+    "paper": "https://doi.org/10.1098/rspa.2021.0916",
+    "image": "assets/1e5c7a5ec1f3b1d7.jpg",
+    "credit": "Figure 1 · published paper (cropped and resized)",
+    "figureSource": "https://publications.mpi-cbg.de/Maddu_2022_8372.pdf"
+  },
+  {
+    "key": "inversedirichlet",
+    "title": "Inverse Dirichlet weighting enables reliable training of physics informed neural networks",
+    "venue": "Machine Learning: Science and Technology · 2022",
+    "desc": "Adaptive weighting balances training objectives in physics-informed neural networks to improve convergence and accuracy.",
+    "paper": "https://doi.org/10.1088/2632-2153/ac3712",
+    "image": "assets/f274a73d91a5305d.jpg",
+    "credit": "Figure 1 · author preprint (cropped and resized)",
+    "figureSource": "https://arxiv.org/pdf/2107.00940"
+  }
+]

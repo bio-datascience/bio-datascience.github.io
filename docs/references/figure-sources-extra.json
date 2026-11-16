@@ -1,0 +1,46 @@
+{
+  "qiime": {
+    "status": "downloaded",
+    "source": "https://arxiv.org/html/2604.15520v1",
+    "image_source": "https://arxiv.org/html/2604.15520v1/q2_stats.png",
+    "figure": "Figure 1"
+  },
+  "cosmo": {
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden",
+    "source": "https://onlinelibrary.wiley.com/doi/10.1002/sim.70534"
+  },
+  "ocean": {
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden",
+    "source": "https://academic.oup.com/ismecommun/article/5/1/ycaf062/8100303"
+  },
+  "salmonella": {
+    "status": "downloaded",
+    "source": "https://www.biorxiv.org/content/10.64898/2026.09.30.755304v1.full",
+    "image_source": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "figure": "Figure 1"
+  },
+  "campy": {
+    "status": "downloaded",
+    "source": "https://www.biorxiv.org/content/10.64898/2026.10.05.755907v1.full",
+    "image_source": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "figure": "Figure 1"
+  },
+  "nbfactor": {
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden",
+    "source": "https://onlinelibrary.wiley.com/doi/10.1002/sim.9384"
+  },
+  "asteria": {
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden",
+    "source": "https://academic.oup.com/nar/article/52/11/6129/7676417"
+  },
+  "permapprox": {
+    "status": "downloaded",
+    "source": "https://arxiv.org/html/2602.22975v1",
+    "image_source": "https://arxiv.org/html/2602.22975v1/expl_eps_rule_eps_rules_combined-1.png",
+    "figure": "Figure 1"
+  }
+}
