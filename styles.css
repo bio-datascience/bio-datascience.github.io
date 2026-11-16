@@ -25,7 +25,7 @@
 #biods-full-site #site-home .hero{grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:48px;max-width:1400px;margin-inline:auto}
 #biods-full-site #site-home .hero h1{font-size:clamp(40px,3vw,54px);text-wrap:balance}
 #biods-full-site #site-home .hero-title-break{display:none}
-#biods-full-site #site-home .hero>div:first-child{width:100%;max-width:620px;justify-self:center;text-align:center}
+#biods-full-site #site-home .hero>div:first-child{width:100%;max-width:620px;justify-self:center;text-align:left}
 #biods-full-site #site-home .hero p{max-width:620px;margin-inline:auto}
 #biods-full-site .sitenav{gap:8px}
 #biods-full-site .sitenav button{font-size:16px;padding:12px 10px}
@@ -36,3 +36,5 @@
 #biods-full-site #student-topics .project-topic-group+.project-topic-group{margin-top:42px;padding-top:24px;border-top:2px solid var(--sub)}
 #biods-full-site #student-topics .project-topic-group>h2{margin-top:24px}
 #biods-full-site #student-topics .project-topic-group>p{margin-bottom:24px}
+
+#biods-full-site #site-home .hero>div:first-child{text-align:left}
