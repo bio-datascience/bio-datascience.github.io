@@ -80,3 +80,8 @@
 
 #biods-full-site .thesis-apply .application-documents{display:flex;align-items:flex-start;gap:12px;margin:24px 0}
 #biods-full-site .thesis-apply .application-documents input{flex:0 0 auto;width:20px;height:20px;margin:2px 0 0}
+
+/* Carry the homepage artwork through the opening strip of every tab. */
+#biods-full-site .sitepage:not(#site-home),#biods-people-revised{position:relative;isolation:isolate}
+#biods-full-site .sitepage:not(#site-home)::before,#biods-people-revised::before{content:"";position:absolute;top:0;left:0;right:0;height:230px;z-index:-1;background:url('assets/biods-artwork.png') center/cover no-repeat;opacity:.16;pointer-events:none;mask-image:linear-gradient(#000 70%,transparent);-webkit-mask-image:linear-gradient(#000 70%,transparent)}
+#biods-full-site .sitepage:not(#site-home)::after,#biods-people-revised::after{content:"";position:absolute;top:0;left:0;right:0;height:230px;z-index:-2;background:linear-gradient(var(--tile) 70%,var(--paper));pointer-events:none}
