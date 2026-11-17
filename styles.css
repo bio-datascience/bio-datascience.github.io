@@ -69,3 +69,14 @@
 #biods-full-site #thesis-application-draft{border-top:1px solid var(--line);margin-top:28px;padding-top:16px}
 #biods-full-site #student-topics{scroll-margin-top:24px}
 @media(max-width:750px){#biods-full-site .application-steps,#biods-full-site .application-fields{grid-template-columns:1fr}#biods-full-site .application-steps{gap:12px}}
+
+/* One continuous introductory strip joins the headline and research topics. */
+#biods-full-site #site-home .hero{position:relative;isolation:isolate}
+#biods-full-site #site-home .hero::after{content:"";position:absolute;inset:-36px -34px 0;z-index:-2;background:var(--tile);pointer-events:none}
+#biods-full-site #site-home .hero::before{content:"";position:absolute;inset:-36px -34px 0;z-index:-1;background:url('assets/biods-artwork.png') center/cover no-repeat;opacity:.16;pointer-events:none}
+#biods-full-site #site-home .themes{background:transparent}
+#biods-full-site #site-home .themes::before{display:none}
+@media(max-width:650px){#biods-full-site #site-home .hero::before,#biods-full-site #site-home .hero::after{inset:-26px -20px 0}}
+
+#biods-full-site .thesis-apply .application-documents{display:flex;align-items:flex-start;gap:12px;margin:24px 0}
+#biods-full-site .thesis-apply .application-documents input{flex:0 0 auto;width:20px;height:20px;margin:2px 0 0}
