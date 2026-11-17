@@ -53,3 +53,19 @@
 @media(max-width:650px){#biods-people-revised .people-feature{grid-template-columns:1fr;gap:16px}#biods-people-revised .group-gallery{grid-template-columns:1fr}}
 
 #biods-people-revised .people-feature .group-photo-open img{aspect-ratio:auto}
+
+/* Thesis applications: a local email-draft builder. */
+#biods-full-site .application-steps{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:30px;padding-left:22px;margin:24px 0}
+#biods-full-site .application-steps h3{font-size:21px;margin-top:0}
+#biods-full-site .application-fields{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+#biods-full-site .application-wide{grid-column:1/-1}
+#biods-full-site .thesis-apply{scroll-margin-top:24px}
+#biods-full-site .thesis-apply label{display:block;font-size:14px;line-height:1.6;margin:14px 0;color:var(--ink)}
+#biods-full-site .thesis-apply label span{color:var(--sub)}
+#biods-full-site .thesis-apply input,#biods-full-site .thesis-apply textarea,#biods-full-site .thesis-apply select{display:block;width:100%;box-sizing:border-box;margin-top:7px;padding:12px;border:1px solid var(--sub);border-radius:3px;background:var(--paper);color:var(--ink);font:inherit;line-height:1.5}
+#biods-full-site .thesis-apply textarea{resize:vertical}
+#biods-full-site .thesis-apply input:focus-visible,#biods-full-site .thesis-apply textarea:focus-visible,#biods-full-site .thesis-apply select:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
+#biods-full-site .thesis-apply .application-action{display:inline-block;padding:12px 18px;border-radius:3px;background:var(--ink);color:var(--paper);font-size:14px;text-decoration:none;cursor:pointer}
+#biods-full-site #thesis-application-draft{border-top:1px solid var(--line);margin-top:28px;padding-top:16px}
+#biods-full-site #student-topics{scroll-margin-top:24px}
+@media(max-width:750px){#biods-full-site .application-steps,#biods-full-site .application-fields{grid-template-columns:1fr}#biods-full-site .application-steps{gap:12px}}
