@@ -117,13 +117,54 @@ const projectGroups=[
 ];
 projectGroups.forEach(([title,description,indices])=>{const section=el('section',null,'project-topic-group');section.append(el('h2',title),el('p',description));indices.forEach(index=>{const t=topics[index],p=byKey[t[0]],d=el('details');d.append(el('summary',t[1]));const references=el('div',null,'links');references.append(link('Starting paper: '+(originalResearchTitles[t[0]]||p.title),p.paper));const scopes=el('div',null,'scope');[['Bachelor’s',t[2]],['Master’s',t[3]]].forEach(([label,txt])=>{const scope=el('div');scope.append(el('h3',label),el('p',txt));scopes.append(scope);});(proposalLinks[t[0]]||[]).forEach(([title,url])=>references.append(link('Related existing proposal: '+title,url)));d.append(references,scopes,el('p','Deliverable: reproducible code, a documented benchmark and a statistical report. Proposed scope; supervision and data availability to be confirmed.','small'));section.append(d);});root.querySelector('#student-topics').append(section);});
 function show(name){root.querySelectorAll('[data-page]').forEach(p=>p.hidden=p.dataset.page!==name);root.querySelectorAll('[data-route]').forEach(b=>{if(b.dataset.route===name)b.setAttribute('aria-current','page');else b.removeAttribute('aria-current');});}
-function showResearchFromHash(){if(['#thesis-apply','#student-topics'].includes(window.location.hash)){show('students');root.querySelector(window.location.hash).scrollIntoView();return true;}if(window.location.hash==='#group-life'){show('people');root.querySelector('#group-life').scrollIntoView();return true;}const pageName=window.location.hash.slice(1);const page=Array.from(root.querySelectorAll('[data-page]')).find(section=>section.dataset.page===pageName);if(page){show(pageName);page.scrollIntoView();return true;}const topic=Array.from(root.querySelectorAll('.research-topic')).find(section=>'#'+section.id===window.location.hash);if(!topic)return false;show('research');topic.scrollIntoView();topic.focus({preventScroll:true});return true;}
-window.addEventListener('hashchange',showResearchFromHash);
-root.querySelectorAll('.themes a,.sitefooter a[href="#contact"]').forEach(a=>a.addEventListener('click',()=>{if(a.hash===window.location.hash)showResearchFromHash();}));
-if(!showResearchFromHash())show('home');
+// Keep visible pages, URL history and scroll positions in sync.
+const sitePages=Array.from(root.querySelectorAll('[data-page]'));
+const currentURL=()=>location.pathname+location.search+location.hash;
+let scrollTimer,renderFrame;
+if('scrollRestoration' in history)history.scrollRestoration='manual';
+function historyPosition(){const position=history.state&&history.state.bioDS;return position&&position.url===currentURL()&&Number.isFinite(position.x)&&Number.isFinite(position.y)?position:null;}
+function savePosition(){history.replaceState({...history.state,bioDS:{url:currentURL(),x:window.scrollX,y:window.scrollY}},'',location.href);}
+function resolveRoute(){
+ let id;try{id=decodeURIComponent(location.hash.slice(1));}catch{id='';}
+ const page=sitePages.find(section=>section.dataset.page===id);
+ if(page)return {page,target:null};
+ const target=id?document.getElementById(id):null;
+ const parent=target&&root.contains(target)?target.closest('[data-page]'):null;
+ return parent?{page:parent,target}:{page:sitePages.find(section=>section.dataset.page==='home'),target:null};
+}
+function renderRoute({restore=false,focus=false}={}){
+ clearTimeout(scrollTimer);cancelAnimationFrame(renderFrame);
+ const route=resolveRoute(),position=restore?historyPosition():null;
+ show(route.page.dataset.page);
+ const dialog=root.querySelector('#figure-dialog');if(dialog.open)dialog.close();
+ renderFrame=requestAnimationFrame(()=>{
+  renderFrame=null;
+  if(position)window.scrollTo({left:position.x,top:position.y,behavior:'auto'});
+  else if(route.target)route.target.scrollIntoView({block:'start',behavior:'auto'});
+  else window.scrollTo({left:0,top:0,behavior:'auto'});
+  if(focus){const heading=route.target||route.page.querySelector('h1');if(heading){heading.tabIndex=-1;heading.focus({preventScroll:true});}}
+  savePosition();
+ });
+}
+function navigate(hash){
+ const url=location.pathname+location.search+(hash==='#home'?'':hash);
+ if(url!==currentURL()){clearTimeout(scrollTimer);savePosition();history.pushState({bioDS:null},'',url);}
+ renderRoute({focus:true});
+}
+root.addEventListener('click',event=>{
+ const anchor=event.target.closest('a[href^="#"]');
+ if(!anchor||event.defaultPrevented||event.button!==0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey||anchor.hasAttribute('download')||(anchor.target&&anchor.target!=='_self'))return;
+ event.preventDefault();navigate(anchor.getAttribute('href'));
+});
+window.addEventListener('popstate',()=>renderRoute({restore:true}));
+window.addEventListener('hashchange',()=>renderRoute({restore:true}));
+window.addEventListener('scroll',()=>{clearTimeout(scrollTimer);if(!renderFrame)scrollTimer=setTimeout(savePosition,250);},{passive:true});
+window.addEventListener('pagehide',savePosition);
+window.addEventListener('pageshow',event=>{if(event.persisted)renderRoute({restore:true});});
+renderRoute({restore:true});
 root.querySelectorAll('[data-group-photo]').forEach(button=>button.addEventListener('click',()=>{const dialog=root.querySelector('#figure-dialog');dialog.querySelector('img').src=button.dataset.groupPhoto;dialog.querySelector('img').alt=button.querySelector('img').alt;dialog.querySelector('p').textContent=button.dataset.caption;dialog.showModal();}));
 root.querySelector('#figure-dialog button').addEventListener('click',()=>root.querySelector('#figure-dialog').close());
-root.querySelectorAll('[data-route]').forEach(b=>b.addEventListener('click',()=>show(b.dataset.route)));root.querySelectorAll('[data-go]').forEach(b=>b.addEventListener('click',()=>show(b.dataset.go)));
+root.querySelectorAll('[data-route]').forEach(b=>b.addEventListener('click',()=>navigate('#'+b.dataset.route)));root.querySelectorAll('[data-go]').forEach(b=>b.addEventListener('click',()=>navigate('#'+b.dataset.go)));
 const applicationForm=root.querySelector('#thesis-application-form');
 applicationForm.addEventListener('submit',event=>{
  event.preventDefault();
