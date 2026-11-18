@@ -1,0 +1,44 @@
+[
+  {
+    "moodle_title": "[WS 25/26] Statistical methods for network construction and analysis (Pugno)",
+    "url": "https://moodle.lmu.de/course/view.php?id=43727",
+    "listed_teachers": "Teacher: Roberto Olayo Alarcon Teacher: Daniele Pugno",
+    "source": "https://moodle.lmu.de/course/index.php?categoryid=3839&lang=en",
+    "verified": "2026-11-18"
+  },
+  {
+    "moodle_title": "[w25/26] Seminar on (Large) Language Model Applications for Text and Biological Data",
+    "url": "https://moodle.lmu.de/course/view.php?id=42729",
+    "listed_teachers": "Teacher: Esteban Garces Arias Teacher: Christian Heumann Teacher: Roberto Olayo Alarcon",
+    "source": "https://moodle.lmu.de/course/index.php?categoryid=3839&lang=en",
+    "verified": "2026-11-18"
+  },
+  {
+    "moodle_title": "[s25] Seminar: Modern statistics and data science in Biomedical research (Olayo-Alarcon)",
+    "url": "https://moodle.lmu.de/course/view.php?id=38850",
+    "listed_teachers": "Teacher: Roberto Olayo Alarcon",
+    "source": "https://moodle.lmu.de/course/search.php?search=biomedical&perpage=all&lang=en",
+    "verified": "2026-11-18"
+  },
+  {
+    "moodle_title": "[s24] Seminar: Compositional Data Analysis (CoDA)",
+    "url": "https://moodle.lmu.de/course/view.php?id=32266",
+    "listed_teachers": "Teacher: Stefanie Peschel",
+    "source": "https://moodle.lmu.de/course/search.php?search=biomedical&perpage=all&lang=en",
+    "verified": "2026-11-18"
+  },
+  {
+    "moodle_title": "[w23/24] Seminar - Selected Topics in High-Dimensional Biomedical Data Analysis (Peschel/Tran)",
+    "url": "https://moodle.lmu.de/course/view.php?id=31359",
+    "listed_teachers": "Teacher: Christian Müller Teacher: Stefanie Peschel Teacher: Minh Tran",
+    "source": "https://moodle.lmu.de/course/search.php?search=Peschel&perpage=all&lang=en",
+    "verified": "2026-11-18"
+  },
+  {
+    "moodle_title": "[s23] Seminar: Network Learning and Sparse Estimation (Peschel, Tran)",
+    "url": "https://moodle.lmu.de/course/view.php?id=26086",
+    "listed_teachers": "Teacher: Christian Müller Teacher: Stefanie Peschel Teacher: Minh Tran",
+    "source": "https://moodle.lmu.de/course/search.php?search=Peschel&perpage=all&lang=en",
+    "verified": "2026-11-18"
+  }
+]

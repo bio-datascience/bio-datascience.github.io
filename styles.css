@@ -85,3 +85,6 @@
 #biods-full-site .sitepage:not(#site-home),#biods-people-revised{position:relative;isolation:isolate}
 #biods-full-site .sitepage:not(#site-home)::before,#biods-people-revised::before{content:"";position:absolute;top:0;left:0;right:0;height:230px;z-index:-1;background:url('assets/biods-artwork.png') center/cover no-repeat;opacity:.16;pointer-events:none;mask-image:linear-gradient(#000 70%,transparent);-webkit-mask-image:linear-gradient(#000 70%,transparent)}
 #biods-full-site .sitepage:not(#site-home)::after,#biods-people-revised::after{content:"";position:absolute;top:0;left:0;right:0;height:230px;z-index:-2;background:linear-gradient(var(--tile) 70%,var(--paper));pointer-events:none}
+
+/* Archived teaching seminars */
+#biods-full-site .seminar-archive{margin-top:32px}#biods-full-site .seminar-archive ul{list-style:none;margin:18px 0 0;padding:0}#biods-full-site .seminar-archive li{border-top:1px solid var(--line);padding:20px 0}#biods-full-site .seminar-archive h4{font-family:Georgia,serif;font-weight:400;font-size:21px;line-height:1.35;margin:8px 0}#biods-full-site .seminar-archive p{margin:8px 0}
